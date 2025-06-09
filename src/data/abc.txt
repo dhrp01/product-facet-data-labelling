@@ -1,0 +1,311 @@
+{
+  id: 6910248517687,
+  title: 'Liberty Skis Evolv 90 (Demo)',
+  handle: 'evolv-90-demo-2024',
+  body_html: '<!--EVOLV 90—>\n' +
+    '<p>This is a model year 2024 Evolv 90. It is a DEMO ski - it has been used at on-snow demos. It comes with Tyrolia Attack2 14 demo bindings and brakes. There is no warranty on this item.</p>\n' +
+    '<p>------</p>\n' +
+    '<p>If you want the best of carving precision and freeride fun in a versatile waist width, the Evolv 90 is for you. Now with our VMT 3.0® core and paired with super damp poured polyurethane sidewalls, the Evolv 90 will fit a wide range of skier abilities and snow conditions.</p>\n' +
+    '<h5>SPECIFICATIONS</h5>\n' +
+    '<!--Evolv 90-->\n' +
+    '<table>\n' +
+    '<thead style="background-color: #202020; border: 1px solid #202020;">\n' +
+    '<tr>\n' +
+    '<th>\n' +
+    '<p><span style="font-weight: 400; color: #ffffff;">Length (cm)</span></p>\n' +
+    '</th>\n' +
+    '<th>\n' +
+    '<p><span style="font-weight: 400; color: #ffffff;">Dimensions (mm)</span></p>\n' +
+    '</th>\n' +
+    '<th>\n' +
+    '<p><span style="font-weight: 400; color: #ffffff;">Radius (m)</span></p>\n' +
+    '</th>\n' +
+    '<th>\n' +
+    '<p><span style="font-weight: 400; color: #ffffff;">Weight (g)*</span></p>\n' +
+    '</th>\n' +
+    '</tr>\n' +
+    '</thead>\n' +
+    '<tbody>\n' +
+    '<tr>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">165cm</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">132-90-114</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">15.5m</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">1625g</span></p>\n' +
+    '</td>\n' +
+    '</tr>\n' +
+    '<tr>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">172cm</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">132-90-114</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">17m</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">1700g</span></p>\n' +
+    '</td>\n' +
+    '</tr>\n' +
+    '<tr>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">179cm</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">132-90-114</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">18.5m</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">1860g</span></p>\n' +
+    '</td>\n' +
+    '</tr>\n' +
+    '<tr>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">186cm</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">132-90-114</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">20m</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">1975g</span></p>\n' +
+    '</td>\n' +
+    '</tr>\n' +
+    '</tbody>\n' +
+    '</table>\n' +
+    '<p>*Average weight in grams per ski +/- 4%.</p>\n' +
+    '<h5>CORE PROFILE</h5>\n' +
+    '<p>VMT 3.0® takes our successful vertical metal core technology two steps further by adding two additional aluminum alloy struts on either side of the center strut. This creates a precise, quiet ride, that is light and nimble in difficult conditions.<br><a href="/pages/core-profiles"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;">Learn about VMT® Cores &gt;</span></a></p>\n' +
+    '<div style="text-align: left;" data-mce-style="text-align: left;">\n' +
+    '<img height="70" width="115" src="https://cdn.shopify.com/s/files/1/0007/3095/5831/files/VMT-3.0-Black.png?v=1657436847" style="float: none;" data-mce-style="float: none;" data-mce-src="https://cdn.shopify.com/s/files/1/0007/3095/5831/files/VMT-3.0-Black.png?v=1657436847"> </div>\n' +
+    '<h5>ROCKER PROFILE</h5>\n' +
+    '<p class="p1">Hammer Rocker comes armed with an early-rise tip and camber back to the tail for powerful edge grip and precise turn shape.<br><a href="/pages/rocker-profiles"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;">Explore Rocker Profiles &gt;</span></a><br></p>\n' +
+    '<div style="text-align: left;" data-mce-style="text-align: left;"><img height="92" width="345" style="float: none;" src="https://cdn.shopify.com/s/files/1/0007/3095/5831/files/Evolv_100_Angle03.png?v=1657420201" data-mce-style="float: none;"></div>\n' +
+    '<p class="p1"><br> <strong>Effective Turning Edge:</strong> 85%<br> <strong>Tip Rocker:</strong> 15%<br></p>\n' +
+    '<h5>SIZE CHART</h5>\n' +
+    '<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0007/3095/5831/files/Evolv90-V76-V82-Helix98_7bea61c6-532b-43cf-93e4-5475d63c516d.png?v=1657589581"></div>\n' +
+    '<!--Evolv 90-->\n' +
+    '<h5>MOUNTING GUIDE<br>\n' +
+    '</h5>\n' +
+    '<p>The “Recommended” mount mark will align you in the center of sidecut and camber of the ski. This allows for the best turn initiation and control in most situations. All mount position measurements are taken from the tail along the surface of the ski.</p>\n' +
+    '<table>\n' +
+    '<thead style="background-color: #202020; border: 1px solid #202020;">\n' +
+    '<tr>\n' +
+    '<th>\n' +
+    '<p><span style="font-weight: 400; color: #ffffff;">Evolv 90</span></p>\n' +
+    '</th>\n' +
+    '<th>\n' +
+    '<p><span style="font-weight: 400; color: #ffffff;">Mount Position</span></p>\n' +
+    '</th>\n' +
+    '</tr>\n' +
+    '</thead>\n' +
+    '<tbody>\n' +
+    '<tr>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">165cm</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">720mm</span></p>\n' +
+    '</td>\n' +
+    '</tr>\n' +
+    '<tr>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">172cm</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">755mm</span></p>\n' +
+    '</td>\n' +
+    '</tr>\n' +
+    '<tr>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">179cm</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">790mm</span></p>\n' +
+    '</td>\n' +
+    '</tr>\n' +
+    '<tr>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">186cm</span></p>\n' +
+    '</td>\n' +
+    '<td>\n' +
+    '<p><span style="font-weight: 400;">820mm</span></p>\n' +
+    '</td>\n' +
+    '</tr>\n' +
+    '</tbody>\n' +
+    '</table>',
+  published_at: '2025-05-20T12:03:58-06:00',
+  created_at: '2024-01-12T05:38:48-07:00',
+  updated_at: '2025-06-05T16:43:59-06:00',
+  vendor: 'Liberty Skis',
+  product_type: 'Demo',
+  tags: [
+    'ability:Beginner',
+    'ability:Expert',
+    'ability:Intermediate',
+    'gender:Mens',
+    'series:Evolv',
+    'terrain:All Mountain',
+    'terrain:Directional Free',
+    'waist:90-99mm',
+    'Warehouse'
+  ],
+  variants: [
+    {
+      id: 40487844642871,
+      title: '165',
+      option1: '165',
+      option2: null,
+      option3: null,
+      sku: 'EV90_165_24D_KIT',
+      requires_shipping: true,
+      taxable: true,
+      featured_image: null,
+      available: true,
+      price: '499.99',
+      grams: 3000,
+      compare_at_price: '1134.00',
+      position: 1,
+      product_id: 6910248517687,
+      created_at: '2024-01-12T05:38:48-07:00',
+      updated_at: '2025-06-05T16:43:59-06:00'
+    },
+    {
+      id: 40487844675639,
+      title: '172',
+      option1: '172',
+      option2: null,
+      option3: null,
+      sku: 'EV90_172_24D_KIT',
+      requires_shipping: true,
+      taxable: true,
+      featured_image: null,
+      available: false,
+      price: '499.99',
+      grams: 3000,
+      compare_at_price: '1134.00',
+      position: 2,
+      product_id: 6910248517687,
+      created_at: '2024-01-12T05:38:48-07:00',
+      updated_at: '2025-06-05T16:43:59-06:00'
+    },
+    {
+      id: 40487844708407,
+      title: '179',
+      option1: '179',
+      option2: null,
+      option3: null,
+      sku: 'EV90_179_24D_KIT',
+      requires_shipping: true,
+      taxable: true,
+      featured_image: null,
+      available: true,
+      price: '499.99',
+      grams: 3000,
+      compare_at_price: '1134.00',
+      position: 3,
+      product_id: 6910248517687,
+      created_at: '2024-01-12T05:38:48-07:00',
+      updated_at: '2025-06-05T16:43:59-06:00'
+    },
+    {
+      id: 40487844741175,
+      title: '186',
+      option1: '186',
+      option2: null,
+      option3: null,
+      sku: 'EV90_186_24D_KIT',
+      requires_shipping: true,
+      taxable: true,
+      featured_image: null,
+      available: true,
+      price: '499.99',
+      grams: 3000,
+      compare_at_price: '1134.00',
+      position: 4,
+      product_id: 6910248517687,
+      created_at: '2024-01-12T05:38:48-07:00',
+      updated_at: '2025-06-05T16:43:59-06:00'
+    }
+  ],
+  images: [
+    {
+      id: 32109732757559,
+      created_at: '2024-08-22T11:33:20-06:00',
+      position: 1,
+      updated_at: '2025-04-09T15:05:38-06:00',
+      product_id: 6910248517687,
+      variant_ids: [],
+      src: 'https://cdn.shopify.com/s/files/1/0007/3095/5831/files/liberty-skis-demo-liberty-skis-evolv-90-demo-2024-32109732757559.png?v=1744232738',
+      width: 2051,
+      height: 2739
+    },
+    {
+      id: 32109732790327,
+      created_at: '2024-08-22T11:33:13-06:00',
+      position: 2,
+      updated_at: '2025-04-09T15:05:39-06:00',
+      product_id: 6910248517687,
+      variant_ids: [],
+      src: 'https://cdn.shopify.com/s/files/1/0007/3095/5831/files/liberty-skis-demo-liberty-skis-evolv-90-demo-2024-32109732790327.png?v=1744232739',
+      width: 2049,
+      height: 2737
+    },
+    {
+      id: 30924245663799,
+      created_at: '2024-01-12T07:00:44-07:00',
+      position: 3,
+      updated_at: '2025-04-09T15:05:39-06:00',
+      product_id: 6910248517687,
+      variant_ids: [],
+      src: 'https://cdn.shopify.com/s/files/1/0007/3095/5831/files/liberty-skis-liberty-skis-evolv-90-demo-2024-30924112396343.png?v=1744232739',
+      width: 1024,
+      height: 1368
+    },
+    {
+      id: 30924245925943,
+      created_at: '2024-01-12T07:00:47-07:00',
+      position: 4,
+      updated_at: '2025-04-09T15:05:39-06:00',
+      product_id: 6910248517687,
+      variant_ids: [],
+      src: 'https://cdn.shopify.com/s/files/1/0007/3095/5831/files/liberty-skis-liberty-skis-evolv-90-demo-2024-30924112494647.png?v=1744232739',
+      width: 1024,
+      height: 1368
+    },
+    {
+      id: 30924246089783,
+      created_at: '2024-01-12T07:00:50-07:00',
+      position: 5,
+      updated_at: '2025-04-09T15:05:39-06:00',
+      product_id: 6910248517687,
+      variant_ids: [],
+      src: 'https://cdn.shopify.com/s/files/1/0007/3095/5831/files/liberty-skis-liberty-skis-evolv-90-demo-2024-30924112461879.png?v=1744232739',
+      width: 1024,
+      height: 1368
+    },
+    {
+      id: 30924246286391,
+      created_at: '2024-01-12T07:00:52-07:00',
+      position: 6,
+      updated_at: '2025-04-09T15:05:39-06:00',
+      product_id: 6910248517687,
+      variant_ids: [],
+      src: 'https://cdn.shopify.com/s/files/1/0007/3095/5831/files/liberty-skis-liberty-skis-evolv-90-demo-2024-30924112429111.png?v=1744232739',
+      width: 1024,
+      height: 1368
+    }
+  ],
+  options: [ { name: 'Length (cm)', position: 1, values: [Array] } ]
+}

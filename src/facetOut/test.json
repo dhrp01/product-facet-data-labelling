@@ -1,0 +1,482 @@
+{
+  "vendor": "Liberty Skis",
+  "facets": {
+    "title": {
+      "Liberty Skis Evolv 100 (Demo)": 1,
+      "Liberty Skis Evolv 90 (Demo)": 1,
+      "Liberty Skis Helix 89w - 2025 (Demo)": 1,
+      "Liberty Skis Horizon 87 - 2026": 1,
+      "Liberty Skis Horizon 92 - 2026": 1,
+      "Liberty Skis Radian 92 - 2026": 1,
+      "Liberty Skis Radian 100 - 2026": 1,
+      "Liberty Skis Radian 106 - 2026": 1,
+      "Liberty Skis Scope 94W - 2026": 1,
+      "Liberty Skis Scope 99W - 2026": 1,
+      "Liberty Skis Scope 84 - 2026": 1,
+      "Liberty Skis Scope 94 - 2026": 1,
+      "Liberty Skis Scope 99 - 2026": 1,
+      "Liberty Skis Scope 104 - 2026": 1,
+      "Liberty Skis Scope 110 - 2026": 1,
+      "Liberty Skis Scope 118 - 2026": 1,
+      "Liberty Skis Genome - 2026": 1,
+      "Liberty Skis Logo Tee (White Liberty)": 1,
+      "Liberty Skis Logo Tee (Black Liberty)": 1,
+      "Liberty Skis Stealth Cap": 1,
+      "Liberty Skis Ghost Cap": 1,
+      "White Embroidery Liberty Skis Cap": 1,
+      "Liberty Skis Evolv 84 (Demo)": 1,
+      "Liberty Skis Unisex Hoodie (Embroidered)": 1,
+      "Liberty Skis Unisex Hoodie (Printed)": 1,
+      "rounding": 1,
+      "Late Fee": 1,
+      "Liberty Skis Helix 89w - 2025": 1,
+      "Liberty Skis Scope 94w - 2025 (Demo)": 1,
+      "Liberty Skis Helix 89 - 2025 (Demo)": 1
+    },
+    "ability": {
+      "Advanced": 15,
+      "Expert": 19,
+      "Intermediate": 18,
+      "Beginner": 13
+    },
+    "gender": {
+      "Mens": 13,
+      "women-specific": 2,
+      "Womens": 5,
+      "Women": 1,
+      "Junior": 1,
+      "Unisex": 1
+    },
+    "series": {
+      "Evolv": 3,
+      "Helix": 2,
+      "Horizon": 2,
+      "Radian": 3,
+      "Scope": 9,
+      "Genome": 1
+    },
+    "terrain": {
+      "All Mountain": 11,
+      "Directional Free": 8,
+      "Powder": 6,
+      "Freestyle": 6,
+      "groomers": 1,
+      "trees": 1,
+      "park": 1,
+      "any terrain": 1,
+      "carving": 1,
+      "floating": 1,
+      "slashing": 1,
+      "Freeride": 4
+    },
+    "waist": {
+      "100-109mm": 4,
+      "90-99mm": 7,
+      "< 90mm": 5,
+      "99mm": 1,
+      "110-119mm": 2,
+      "141mm": 1,
+      "1 × 1 athletic rib-knit waistband with spandex": 1
+    },
+    "vendor": {
+      "Liberty Skis": 30
+    },
+    "product_type": {
+      "skis": 1,
+      "Demo": 5,
+      "2026 Skis": 13,
+      "ski": 1,
+      "powder ski": 1,
+      "Gear": 7,
+      "": 1,
+      "sunglasses": 1,
+      "2025 Skis": 1
+    },
+    "model": {
+      "Evolv 100": 1,
+      "Radian 92": 1,
+      "Radian 106": 1,
+      "Scope 94w": 1
+    },
+    "year": {
+      "2024": 1,
+      "2026": 2
+    },
+    "condition": {
+      "DEMO": 4
+    },
+    "bindings": {
+      "Tyrolia Attack2 14 demo": 1,
+      "Tyrolia Attack2 14 demo bindings": 1,
+      "Tyrolia Attack2 13 demo bindings": 1,
+      "Tyrolia Attack2 11 demo": 1,
+      "Tyrolia Attack2 11": 1
+    },
+    "warranty": {
+      "None": 1,
+      "no warranty": 4
+    },
+    "length": {
+      "172cm": 1,
+      "179cm": 1,
+      "186cm": 1,
+      "168cm": 1
+    },
+    "dimensions": {
+      "139-100-122mm": 1,
+      "A (inches): 20 ½-24 ¼": 1,
+      "B (inches): 4 ½": 1,
+      "C (inches): 2 ⅝": 1,
+      "D (inches): 7 ⅛": 1
+    },
+    "radius": {
+      "17m": 1,
+      "19m": 1,
+      "21m": 1
+    },
+    "weight": {
+      "1815g": 1,
+      "1930g": 1,
+      "2030g": 1
+    },
+    "core_profile": {
+      "VMT 3.0®": 2
+    },
+    "rocker_profile": {
+      "Hammer Rocker": 3,
+      "progressive rocker": 1
+    },
+    "effective_turning_edge": {
+      "85%": 3
+    },
+    "tip_rocker": {
+      "15%": 3
+    },
+    "model_year": {
+      "2024": 2,
+      "2025": 3
+    },
+    "length__cm_": {
+      "165cm": 2,
+      "172cm": 2,
+      "179cm": 2,
+      "186cm": 2
+    },
+    "dimensions__mm_": {
+      "132-90-114": 1,
+      "126-84-110": 1
+    },
+    "radius__m_": {
+      "15.5m": 1,
+      "17m": 1,
+      "18.5m": 1,
+      "20m": 1,
+      "14.5m": 1,
+      "16m": 1,
+      "17.5m": 1,
+      "19m": 1
+    },
+    "weight__g_": {
+      "1625g": 1,
+      "1700g": 1,
+      "1860g": 1,
+      "1975g": 1,
+      "1530g": 1,
+      "1650g": 1,
+      "1710g": 1,
+      "1800g": 1
+    },
+    "product_name": {
+      "Helix 89W": 1
+    },
+    "included_accessories": {
+      "Tyrolia Attack2 11 demo bindings and brakes": 1
+    },
+    "features": {
+      "updated tip and tail rocker": 1,
+      "butters with ease": 1,
+      "skis the whole mountain capably": 1,
+      "Bamboo, poplar, and carbon fiber construction": 1,
+      "lively": 1,
+      "easy turn initiation": 1,
+      "stability": 2,
+      "smooth ride": 1,
+      "user-friendly": 1,
+      "Easy turn initiation": 1,
+      "Rock-solid stability in carved turns ": 1,
+      "lightweight": 2,
+      "playful": 1,
+      "fun": 1,
+      "versatile": 1,
+      "nimble shape": 1,
+      "technical terrain navigation": 1,
+      "Recoil Core Carbon": 1,
+      "responsiveness": 1,
+      "high-speed turns": 1,
+      "powerful": 1,
+      "Taped neck and shoulders": 1,
+      "Double seam at sleeves and bottom hem": 1,
+      "6 embroidered eyelets": 1,
+      "Adjustable strap with antique buckle": 1
+    },
+    "intended_use": {
+      "rip any jump line": 1,
+      "Freeride": 1,
+      "powder days": 1,
+      "backcountry adventures": 1,
+      "booter session": 1,
+      "groomers": 1,
+      "tree stashes": 1,
+      "open field of powder": 1
+    },
+    "ski_type": {
+      "Horizon 87": 1,
+      "Horizon 92": 1
+    },
+    "width": {
+      "narrowest": 1
+    },
+    "technology": {
+      "Variable Metal Technology": 2
+    },
+    "performance": {
+      "ideal balance of edge hold and maneuverability": 1,
+      "all-mountain": 1,
+      "big-mountain": 1,
+      "Lightweight": 1,
+      "Nimble": 1
+    },
+    "construction": {
+      "compliant tips and tails": 1,
+      "Variable Metal Technology": 1,
+      " phenolic plate": 1,
+      "Tubular fabric": 1,
+      "Taped neck and shoulders": 1,
+      "Double seam at sleeves and bottom hem": 1,
+      "VMT 3.0®": 1,
+      "Bamboo": 1,
+      "poplar": 1,
+      "carbon fiber": 1,
+      "Poplar and ash": 1,
+      "phenolic plate under foot": 1
+    },
+    "origin": {
+      "European-made": 1,
+      "European craftsmanship": 1,
+      "Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico, and are printed here in the USA": 1,
+      "Honduras": 1,
+      "Nicaragua": 1,
+      "Haiti": 1,
+      "Dominican Republic": 1,
+      "Bangladesh": 1,
+      "Mexico": 1,
+      "USA": 1
+    },
+    "design": {
+      "Colorado design": 1,
+      "lightweight": 1,
+      "powerful": 1,
+      "twin-tip": 1
+    },
+    "type": {
+      "ski": 1,
+      "freeride ski": 1,
+      "big-mountain freeride skiing": 1,
+      "Freestyle and freeride-oriented": 1
+    },
+    "intendeduse": {
+      "bigger mountains": 1,
+      "more snow": 1,
+      "varied terrains": 1
+    },
+    "description": {
+      "The ultimate one-ski quiver": 1
+    },
+    "material": {
+      "Poplar": 1,
+      "ash": 1,
+      "Phenolic plate": 1,
+      "bamboo": 1,
+      "poplar": 1,
+      "100% cotton": 2,
+      "90% cotton, 10% polyester": 1,
+      "99% cotton, 1% polyester": 1,
+      "100% chino cotton twill": 2,
+      "85% acrylic": 1,
+      "15% wool": 1,
+      "50% pre-shrunk cotton, 50% polyester": 1,
+      "40% cotton, 60% polyester": 1
+    },
+    "shape": {
+      "94W": 1,
+      "tip and tail rocker": 1
+    },
+    "properties": {
+      "Lightweight": 1,
+      "playful": 1,
+      "excellent edge hold": 1,
+      "lightweight": 1
+    },
+    "target_audience": {
+      "women": 1
+    },
+    "experience": {
+      "freeride": 1,
+      "fun and intuitive": 1
+    },
+    "usage": {
+      "skiing": 1,
+      "unforgettable powder days": 1
+    },
+    "ski_category": {
+      "all-mountain twin": 1
+    },
+    "name": {
+      "Scope 104": 1
+    },
+    "awards": {
+      "Freeskier EditorsPick": 1,
+      "Blister Recommended": 1
+    },
+    "ski_model": {
+      "Scope 110": 1
+    },
+    "core_type": {
+      "poplar core": 1
+    },
+    "tip_shape": {
+      "rockered": 1
+    },
+    "tail_shape": {
+      "rockered": 1
+    },
+    "base_material": {
+      "high-carbon bases": 1
+    },
+    "rocker": {
+      "perfectly placed": 1
+    },
+    "snow_type": {
+      "deep snow": 1
+    },
+    "locations": {
+      "Steamboat": 1,
+      "Niseko": 1
+    },
+    "fabric_weight": {
+      "5.0–5.3 oz/yd² (170-180 g/m²)": 2,
+      "8.0 oz/yd² (271.25 g/m²)": 2
+    },
+    "yarn_type": {
+      "Open-end yarn": 1
+    },
+    "fabric_type": {
+      "Open-end yarn": 1,
+      "Tubular fabric": 1
+    },
+    "color_disclaimer": {
+      "Due to the fabric properties, the White color variant may appear off-white rather than bright white.": 1,
+      "White color variant may appear off-white rather than bright white": 1
+    },
+    "style": {
+      "Unstructured": 2,
+      "6-panel": 3,
+      "low-profile": 2,
+      "Structured": 1,
+      "high-profile": 1,
+      "snap-back": 1,
+      "flat visor": 1
+    },
+    "closure": {
+      "Plastic snap closure": 1
+    },
+    "color": {
+      "White on white": 1
+    },
+    "accents": {
+      "grey under the visor": 1
+    },
+    "head_circumference": {
+      "22″–24″ (55–60 cm)": 1
+    },
+    "size": {
+      "One size": 2,
+      "A (inches): 20 ½-24 ⅜": 1,
+      "B (inches): 4 ¾": 1,
+      "C (inches): 3 ⅛": 1,
+      "D (inches): 7 ½": 1
+    },
+    "details": {
+      "6 embroidered eyelets": 1,
+      "Adjustable strap with antique buckle": 1
+    },
+    "crown": {
+      "3 ⅛” (7.6 cm)": 1
+    },
+    "tail": {
+      "flat tail": 1
+    },
+    "tip": {
+      "more compliant tip": 1
+    },
+    "core": {
+      "VMT 3.0®": 1
+    },
+    "fabric_composition": {
+      " 50% pre-shrunk cotton, 50% polyester": 1,
+      "Heather Sport Dark Navy is 40% cotton, 60% polyester": 1
+    },
+    "fabric_details": {
+      " Air-jet spun yarn with a soft feel and reduced pilling": 1
+    },
+    "hood": {
+      "Double-lined hood with matching drawcord": 2
+    },
+    "body": {
+      "Quarter-turned body to avoid crease down the middle": 2
+    },
+    "cuffs_and_waistband": {
+      "1 × 1 athletic rib-knit cuffs and waistband with spandex": 1
+    },
+    "pockets": {
+      "Front pouch pocket": 2
+    },
+    "stitching": {
+      "Double-needle stitched collar, shoulders, armholes, cuffs, and hem": 1,
+      "Double-needle stitched collar": 1,
+      "Double-needle stitched shoulders": 1,
+      "Double-needle stitched armholes": 1,
+      "Double-needle stitched cuffs": 1,
+      "Double-needle stitched hem": 1
+    },
+    "fabric_features": {
+      "Air-jet spun yarn with a soft feel and reduced pilling": 1
+    },
+    "sleeves": {
+      "1 × 1 athletic rib-knit cuffs with spandex": 1
+    },
+    "manufacturing": {
+      "Printed right here in the good ol' USA": 1
+    },
+    "characteristics": {
+      "smashes powder and crud with ease": 1,
+      "lighter than previous models": 1,
+      "perfect blend of playfulness and edge hold": 1,
+      "High-carbon race bases": 1,
+      "motoring on long cat tracks": 1,
+      "women-specific model": 1
+    },
+    "base": {
+      "High-carbon race bases": 1
+    },
+    "category": {
+      "women's ski": 1
+    },
+    "camber": {
+      "positive camber underfoot": 1
+    },
+    "model_name": {
+      "Helix 89": 1
+    }
+  }
+}

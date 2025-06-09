@@ -1,0 +1,4719 @@
+{
+  "6910248681527": {
+    "title": "Liberty Skis Evolv 100 (Demo)",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "172",
+      "179",
+      "186"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1174.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2024",
+    "condition": "DEMO",
+    "bindings": "Tyrolia Attack2 14 demo",
+    "warranty": "No warranty",
+    "length_(cm)": [
+      "172cm",
+      "179cm",
+      "186cm"
+    ],
+    "dimensions_(mm)": [
+      "139-100-122"
+    ],
+    "radius_(m)": [
+      "17m",
+      "19m",
+      "21m"
+    ],
+    "weight_(g)": [
+      "1815g",
+      "1930g",
+      "2030g"
+    ],
+    "core_profile": "VMT 3.0®",
+    "rocker_profile": "Hammer Rocker",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "15%"
+  },
+  "6910248517687": {
+    "title": "Liberty Skis Evolv 90 (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "165",
+      "172",
+      "179",
+      "186"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1134.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "165cm",
+      "172cm",
+      "179cm",
+      "186cm"
+    ],
+    "dimensions_(mm)": [
+      "132-90-114",
+      "132-90-114",
+      "132-90-114",
+      "132-90-114"
+    ],
+    "radius_(m)": [
+      "15.5m",
+      "17m",
+      "18.5m",
+      "20m"
+    ],
+    "weight_(g)*": [
+      "1625g",
+      "1700g",
+      "1860g",
+      "1975g"
+    ],
+    "core_profile": "VMT 3.0®",
+    "rocker_profile": "Hammer Rocker",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "15%"
+  },
+  "7262514970679": {
+    "title": "Liberty Skis Helix 89w - 2025 (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "152",
+      "160",
+      "168"
+    ],
+    "price": [
+      "599.99"
+    ],
+    "compare_at_price": [
+      "874.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2025",
+    "brand": "Helix",
+    "model": "89W",
+    "condition": "DEMO",
+    "bindings": "Tyrolia Attack2 11",
+    "warranty": "none"
+  },
+  "7277627801655": {
+    "title": "Liberty Skis Horizon 87 - 2026",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Horizon"
+    ],
+    "terrain": [
+      "Directional Free"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "152",
+      "159",
+      "167"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "year": "2026",
+    "ski_line": "Horizon",
+    "ski_description": "narrowest",
+    "waist_description": "slimmer waist",
+    "technology": "Variable Metal Technology",
+    "features": [
+      "ideal balance of edge hold and maneuverability",
+      "precision on the slopes"
+    ]
+  },
+  "7277627539511": {
+    "title": "Liberty Skis Horizon 92 - 2026",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Horizon"
+    ],
+    "terrain": [
+      "Directional Free"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "145",
+      "152",
+      "159",
+      "167"
+    ],
+    "price": [
+      "749.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "product_name": "Horizon 92",
+    "technology": "Variable Metal Technology",
+    "features": [
+      "edge hold",
+      "dampening",
+      "compliant tips and tails"
+    ],
+    "origin": "European-made"
+  },
+  "7277627310135": {
+    "title": "Liberty Skis Radian 92 - 2026",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Radian"
+    ],
+    "terrain": [
+      "Directional Free"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "167",
+      "173",
+      "179",
+      "185"
+    ],
+    "price": [
+      "749.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "product_name": "Radian 92",
+    "brand": "Not specified",
+    "origin": "European",
+    "design_inspiration": "Colorado",
+    "features": [
+      "easy turn initiation",
+      "stability of Variable Metal Technology"
+    ],
+    "benefits": [
+      "smooth ride",
+      "user-friendly"
+    ]
+  },
+  "7277627080759": {
+    "title": "Liberty Skis Radian 100 - 2026",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Radian"
+    ],
+    "terrain": [
+      "Directional Free"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "167",
+      "173",
+      "179",
+      "185"
+    ],
+    "price": [
+      "799.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "description": "The Radian 100 balances all-mountain versatility with big-mountain performance. Its lightweight yet powerful design offers incredible stability and control for a seamless ride, all crafted with European precision."
+  },
+  "7277626884151": {
+    "title": "Liberty Skis Radian 106 - 2026",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Radian"
+    ],
+    "terrain": [
+      "Directional Free",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "173",
+      "179",
+      "185"
+    ],
+    "price": [
+      "849.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "year": "2026",
+    "model": "Radian 106",
+    "description": "ultimate one-ski quiver for bigger mountains with more snow. It's the wider, more powerful version of the Radian 100, providing superior performance across varied terrains with the same European quality and attention to detail."
+  },
+  "7277626654775": {
+    "title": "Liberty Skis Scope 94W - 2026",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": "women",
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "ski",
+    "Length (cm)": [
+      "152",
+      "158",
+      "164"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "purpose": "freeride",
+    "construction_materials": [
+      "Poplar",
+      "ash",
+      "phenolic plate"
+    ],
+    "features": [
+      "lightweight",
+      "playful",
+      "excellent edge hold",
+      "high performance"
+    ]
+  },
+  "7277626458167": {
+    "title": "Liberty Skis Scope 99W - 2026",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "152",
+      "158",
+      "164"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "target_audience": "women",
+    "intended_use": "freeride ski",
+    "performance_characteristics": [
+      "lightweight",
+      "nimble",
+      "easy turn initiation",
+      "rock-solid stability in carved turns"
+    ]
+  },
+  "7277626228791": {
+    "title": "Liberty Skis Scope 84 - 2026",
+    "ability": [
+      "Beginner",
+      "Intermediate"
+    ],
+    "gender": [
+      "junior"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "128",
+      "138",
+      "148",
+      "158",
+      "168"
+    ],
+    "price": [
+      "429.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "size": [
+      "168cm"
+    ],
+    "core": [
+      "bamboo and poplar"
+    ],
+    "design": [
+      "twin-tip"
+    ]
+  },
+  "7277626032183": {
+    "title": "Liberty Skis Scope 94 - 2026",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "164",
+      "172",
+      "180",
+      "186"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "property": [
+      "freeride ski",
+      "all-mountain twin",
+      "playful",
+      "fun",
+      "versatile"
+    ]
+  },
+  "7277625770039": {
+    "title": "Liberty Skis Scope 99 - 2026",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "164",
+      "172",
+      "180",
+      "186"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "waist_width": "99mm"
+  },
+  "7277625507895": {
+    "title": "Liberty Skis Scope 104 - 2026",
+    "ability": [
+      "Advanced",
+      "Expert"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Ski",
+    "Length (cm)": [
+      "164",
+      "172",
+      "180",
+      "188"
+    ],
+    "price": [
+      "749.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "intended_use": "Big-mountain freeride skiing",
+    "features": [
+      "Nimble shape",
+      "Recoil Core Carbon",
+      "Lightweight",
+      "Powerful"
+    ],
+    "awards": [
+      "Freeskier EditorsPick",
+      "Blister Recommended"
+    ]
+  },
+  "7277625278519": {
+    "title": "Liberty Skis Scope 110 - 2026",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "110-119mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "176",
+      "182",
+      "190"
+    ],
+    "price": [
+      "799.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "product_name": "Scope 110",
+    "intended_use": [
+      "powder days",
+      "backcountry adventures",
+      "booter session",
+      "groomers",
+      "tree stashes",
+      "open field of powder"
+    ]
+  },
+  "7277625114679": {
+    "title": "Liberty Skis Scope 118 - 2026",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "110-119mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "182",
+      "190"
+    ],
+    "price": [
+      "849.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "core": "poplar",
+    "plate": "phenolic",
+    "tips_&_tails": "rockered",
+    "bases": "high-carbon"
+  },
+  "7277624918071": {
+    "title": "Liberty Skis Genome - 2026",
+    "ability": [
+      "Advanced",
+      "Expert"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Genome"
+    ],
+    "terrain": [
+      "Powder"
+    ],
+    "waist": "141mm",
+    "vendor": "Liberty Skis",
+    "product_type": "2026 Skis",
+    "Length (cm)": [
+      "181",
+      "187",
+      "194"
+    ],
+    "price": [
+      "899.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "rocker": "perfectly placed",
+    "environment": [
+      "deep snow",
+      "powder days"
+    ]
+  },
+  "7274989486135": {
+    "title": "Liberty Skis Logo Tee (White Liberty)",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Color": [
+      "Black",
+      "Turf Green",
+      "Azalea"
+    ],
+    "Size": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "price": [
+      "29.95"
+    ],
+    "compare_at_price": [
+      "34.95"
+    ],
+    "grams": [
+      "164",
+      "190",
+      "215",
+      "241",
+      "275"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": "100% cotton",
+    "fabric_weight": "5.0–5.3 oz/yd² (170-180 g/m²)",
+    "yarn_type": "open-end yarn",
+    "fabric_construction": "Tubular fabric",
+    "neckline": "taped neck and shoulders",
+    "sleeves": "double seam at sleeves",
+    "hem": "double seam at bottom hem",
+    "origin_manufacturing": "Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico",
+    "origin_printing": "USA"
+  },
+  "7274989355063": {
+    "title": "Liberty Skis Logo Tee (Black Liberty)",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Color": [
+      "Sport Grey",
+      "Light Pink",
+      "Ash",
+      "White"
+    ],
+    "Size": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "price": [
+      "29.95"
+    ],
+    "compare_at_price": [
+      "34.95"
+    ],
+    "grams": [
+      "164",
+      "190",
+      "215",
+      "241",
+      "275"
+    ],
+    "available": [
+      "true"
+    ]
+  },
+  "7272807825463": {
+    "title": "Liberty Skis Stealth Cap",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Color": [
+      "Black",
+      "Pink",
+      "White"
+    ],
+    "price": [
+      "29.95"
+    ],
+    "compare_at_price": [
+      "34.95"
+    ],
+    "grams": [
+      "94"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": [
+      "100% chino cotton twill"
+    ],
+    "structure": [
+      "Unstructured"
+    ],
+    "panels": [
+      "6-panel"
+    ],
+    "profile": [
+      "low-profile"
+    ],
+    "eyelets": [
+      "6 embroidered eyelets"
+    ],
+    "crown_height": [
+      "3 ⅛” (7.6 cm)"
+    ],
+    "strap": [
+      "Adjustable strap with antique buckle"
+    ]
+  },
+  "7272792883255": {
+    "title": "Liberty Skis Ghost Cap",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "price": [
+      "29.95"
+    ],
+    "compare_at_price": [
+      "34.95"
+    ],
+    "grams": [
+      "113"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": [
+      "85% acrylic, 15% wool"
+    ],
+    "structure": [
+      "Structured",
+      "6-panel",
+      "high-profile"
+    ],
+    "closure": "Plastic snap closure",
+    "visor": "flat",
+    "under_visor": "grey",
+    "head_circumference": [
+      "22″–24″ (55–60 cm)"
+    ],
+    "size": [
+      "One size"
+    ],
+    "dimension_a": "20 ½-24 ¼ inches",
+    "dimension_b": "4 ½ inches",
+    "dimension_c": "2 ⅝ inches",
+    "dimension_d": "7 ⅛ inches"
+  },
+  "7272791736375": {
+    "title": "White Embroidery Liberty Skis Cap",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Color": [
+      "Black",
+      "Dark Grey",
+      "Pink"
+    ],
+    "price": [
+      "29.95"
+    ],
+    "compare_at_price": [
+      "34.95"
+    ],
+    "grams": [
+      "94"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": [
+      "100% chino cotton twill"
+    ],
+    "structure": [
+      "Unstructured",
+      "6-panel",
+      "low-profile"
+    ],
+    "embroidery": [
+      "6 embroidered eyelets"
+    ],
+    "crown": [
+      "3 ⅛” (7.6 cm)"
+    ],
+    "strap": [
+      "Adjustable strap with antique buckle"
+    ],
+    "size": [
+      "One size"
+    ],
+    "size_dimensions": {
+      "a": [
+        "20 ½-24 ⅜ inches"
+      ],
+      "b": [
+        "4 ¾ inches"
+      ],
+      "c": [
+        "3 ⅛ inches"
+      ],
+      "d": [
+        "7 ½ inches"
+      ]
+    }
+  },
+  "6910248747063": {
+    "title": "Liberty Skis Evolv 84 (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "165",
+      "172",
+      "179"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1104.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2024",
+    "demo": "DEMO",
+    "bindings": "Tyrolia Attack2 13 demo bindings and brakes",
+    "warranty": "No warranty on this item",
+    "length_(cm)": [
+      "165cm",
+      "172cm",
+      "179cm",
+      "186cm"
+    ],
+    "dimensions_(mm)": [
+      "126-84-110"
+    ],
+    "radius_(m)": [
+      "14.5m",
+      "16m",
+      "17.5m",
+      "19m"
+    ],
+    "weight_(g)*": [
+      "1530g",
+      "1650g",
+      "1710g",
+      "1800g"
+    ],
+    "core_profile": "VMT 3.0®",
+    "rocker_profile": "Hammer Rocker",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "15%"
+  },
+  "7272205451319": {
+    "title": "Liberty Skis Unisex Hoodie (Embroidered)",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Color": [
+      "Ash",
+      "Sand",
+      "Military Green",
+      "Light Pink"
+    ],
+    "Size": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "price": [
+      "59.95",
+      "69.95"
+    ],
+    "compare_at_price": [
+      "69.95"
+    ],
+    "grams": [
+      "454",
+      "468",
+      "567",
+      "618",
+      "638",
+      "714",
+      "726",
+      "746"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": [
+      "50% pre-shrunk cotton, 50% polyester",
+      "Heather Sport Dark Navy is 40% cotton, 60% polyester"
+    ],
+    "weight": {
+      "unit": "g/m²",
+      "value": "271.25"
+    },
+    "fabric": "Air-jet spun yarn with a soft feel and reduced pilling",
+    "hood": "Double-lined hood with matching drawcord",
+    "body": "Quarter-turned body to avoid crease down the middle",
+    "cuffs_and_waistband": "1 × 1 athletic rib-knit cuffs and waistband with spandex",
+    "pockets": "Front pouch pocket",
+    "stitching": "Double-needle stitched collar, shoulders, armholes, cuffs, and hem",
+    "colors": [
+      "White",
+      "Heather Sport Dark Navy"
+    ],
+    "sizing": {
+      "s": {
+        "length": {
+          "unit": "inches",
+          "value": "27"
+        },
+        "width": {
+          "unit": "inches",
+          "value": "20"
+        }
+      },
+      "m": {
+        "length": {
+          "unit": "inches",
+          "value": "28"
+        },
+        "width": {
+          "unit": "inches",
+          "value": "22"
+        }
+      },
+      "l": {
+        "length": {
+          "unit": "inches",
+          "value": "29"
+        },
+        "width": {
+          "unit": "inches",
+          "value": "24"
+        }
+      },
+      "xl": {
+        "length": {
+          "unit": "inches",
+          "value": "30"
+        },
+        "width": {
+          "unit": "inches",
+          "value": "26"
+        }
+      },
+      "2xl": {
+        "length": {
+          "unit": "inches",
+          "value": "31"
+        },
+        "width": {
+          "unit": "inches",
+          "value": "28"
+        }
+      },
+      "3xl": {
+        "length": {
+          "unit": "inches",
+          "value": "32"
+        },
+        "width": {
+          "unit": "inches",
+          "value": "30"
+        }
+      },
+      "4xl": {
+        "length": {
+          "unit": "inches",
+          "value": "33"
+        },
+        "width": {
+          "unit": "inches",
+          "value": "32"
+        }
+      },
+      "5xl": {
+        "length": {
+          "unit": "inches",
+          "value": "34"
+        },
+        "width": {
+          "unit": "inches",
+          "value": "34"
+        }
+      }
+    },
+    "disclaimer": "Due to the fabric properties, the White color variant may appear off-white rather than bright white."
+  },
+  "7272204992567": {
+    "title": "Liberty Skis Unisex Hoodie (Printed)",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Color": [
+      "Ash",
+      "Sand",
+      "Military Green",
+      "Light Pink"
+    ],
+    "Size": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "price": [
+      "49.95",
+      "59.95"
+    ],
+    "compare_at_price": [
+      "59.95"
+    ],
+    "grams": [
+      "454",
+      "468",
+      "567",
+      "618",
+      "638",
+      "714",
+      "726",
+      "746"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": [
+      "50% pre-shrunk cotton, 50% polyester",
+      "Heather Sport Dark Navy is 40% cotton, 60% polyester"
+    ],
+    "fabric_weight": [
+      "8.0 oz/yd² (271.25 g/m²)"
+    ],
+    "fabric_details": [
+      "Air-jet spun yarn with a soft feel and reduced pilling"
+    ],
+    "hood": [
+      "Double-lined hood with matching drawcord"
+    ],
+    "fit": [
+      "Quarter-turned body to avoid crease down the middle"
+    ],
+    "cuffs_and_waistband": [
+      "1 × 1 athletic rib-knit cuffs and waistband with spandex"
+    ],
+    "pockets": [
+      "Front pouch pocket"
+    ],
+    "stitching": [
+      "Double-needle stitched collar, shoulders, armholes, cuffs, and hem"
+    ],
+    "manufacturing": [
+      "Printed right here in the good ol' USA"
+    ],
+    "color_disclaimer": [
+      "Due to the fabric properties, the White color variant may appear off-white rather than bright white."
+    ],
+    "sizing": [
+      {
+        "size": "S",
+        "length_(inches)": 27,
+        "width_(inches)": 20
+      },
+      {
+        "size": "M",
+        "length_(inches)": 28,
+        "width_(inches)": 22
+      },
+      {
+        "size": "L",
+        "length_(inches)": 29,
+        "width_(inches)": 24
+      },
+      {
+        "size": "XL",
+        "length_(inches)": 30,
+        "width_(inches)": 26
+      },
+      {
+        "size": "2XL",
+        "length_(inches)": 31,
+        "width_(inches)": 28
+      },
+      {
+        "size": "3XL",
+        "length_(inches)": 32,
+        "width_(inches)": 30
+      },
+      {
+        "size": "4XL",
+        "length_(inches)": 33,
+        "width_(inches)": 32
+      },
+      {
+        "size": "5XL",
+        "length_(inches)": 34,
+        "width_(inches)": 34
+      }
+    ]
+  },
+  "7269482135607": {
+    "title": "rounding",
+    "vendor": "Liberty Skis",
+    "product_type": "",
+    "price": [
+      "0.00"
+    ],
+    "available": [
+      "true"
+    ]
+  },
+  "7267865395255": {
+    "title": "Late Fee",
+    "vendor": "Liberty Skis",
+    "product_type": "",
+    "price": [
+      "0.00"
+    ],
+    "available": [
+      "true"
+    ]
+  },
+  "6908641247287": {
+    "title": "Liberty Skis Helix 89w - 2025",
+    "vendor": "Liberty Skis",
+    "product_type": "skis",
+    "Length (cm)": [
+      "152",
+      "160",
+      "168"
+    ],
+    "price": [
+      "599.99"
+    ],
+    "gender": "women",
+    "features": [
+      "tip and tail rocker",
+      "bamboo construction",
+      "poplar construction",
+      "carbon fiber construction"
+    ],
+    "intended_use": [
+      "buttering",
+      "skiing the whole mountain",
+      "jump lines"
+    ]
+  },
+  "7260437938231": {
+    "title": "Liberty Skis Scope 94w - 2025 (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "152",
+      "158",
+      "164"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "compare_at_price": [
+      "974.99"
+    ],
+    "model_year": "2025",
+    "model": "Scope 94w",
+    "binding": "Tyrolia Attack2 11 demo",
+    "demo": "True",
+    "warranty": "No warranty",
+    "weight": "Lighter than previous models",
+    "wood_type": [
+      "Poplar",
+      "ash"
+    ],
+    "plate": "Phenolic",
+    "base": "High-carbon race bases",
+    "type": "Women's ski"
+  },
+  "7260437315639": {
+    "title": "Liberty Skis Helix 89 - 2025 (Demo)",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men",
+      "unisex"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "Freestyle"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "168",
+      "175",
+      "182"
+    ],
+    "price": [
+      "599.99"
+    ],
+    "compare_at_price": [
+      "874.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2025",
+    "product_name": "Helix 89",
+    "demo": true,
+    "bindings": "Tyrolia Attack2 11",
+    "warranty": false
+  },
+  "7260437348407": {
+    "title": "Liberty Skis Helix 99 - 2025 (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": "Any mountain in North America and beyond",
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "165",
+      "172",
+      "179",
+      "186"
+    ],
+    "price": [
+      "629.99"
+    ],
+    "compare_at_price": [
+      "924.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2025",
+    "model": "Helix 99",
+    "condition": "DEMO",
+    "bindings": "Tyrolia Attack2 11 demo",
+    "warranty": "No warranty",
+    "materials": [
+      "Bamboo",
+      "poplar",
+      "carbon fiber"
+    ],
+    "usage": "Playful ski"
+  },
+  "7260437446711": {
+    "title": "Liberty Skis Helix 99w - 2025 (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165"
+    ],
+    "price": [
+      "629.99"
+    ],
+    "compare_at_price": [
+      "924.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2025",
+    "model": "Helix 99w",
+    "condition": "DEMO",
+    "bindings": "Tyrolia Attack2 11 demo",
+    "warranty": "No Warranty",
+    "materials": [
+      "Bamboo",
+      "poplar",
+      "carbon fiber"
+    ],
+    "rocker_profile": "Tip and tail rocker",
+    "tip_and_tail_softness": "Softened by about 10%"
+  },
+  "7260437512247": {
+    "title": "Liberty Skis Horizon 92 - 2025 (Demo)",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Horizon"
+    ],
+    "terrain": [
+      "Directional Free"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "145",
+      "152",
+      "159",
+      "167"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "compare_at_price": [
+      "1024.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "model": "Horizon 92",
+    "year": "2025",
+    "condition": "DEMO",
+    "bindings": "Tyrolia Attack2 11 demo",
+    "warranty": "No warranty",
+    "core": [
+      "poplar and ash"
+    ],
+    "construction": [
+      "variable metal laminate"
+    ],
+    "turn_type": [
+      "short to mid-range"
+    ]
+  },
+  "7260437545015": {
+    "title": "Liberty Skis Radian 100 - 2025 (Demo)",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Radian"
+    ],
+    "terrain": [
+      "Directional Free",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "167",
+      "173",
+      "179",
+      "185"
+    ],
+    "price": [
+      "749.99"
+    ],
+    "compare_at_price": [
+      "1074.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2025",
+    "ski_name": "Radian 100",
+    "condition": "DEMO",
+    "bindings": "Tyrolia Attack2 14 demo bindings and brakes",
+    "warranty": "No warranty",
+    "weight": "approximately 100 grams per ski lighter than an Evolv100 in the same size",
+    "awards": [
+      "FREESKIER Editor's Pick 2024-25",
+      "Blister Gear Recommended 2024-25",
+      "Real Skiers Recommended 2024-25"
+    ],
+    "waist_width": "100mm"
+  },
+  "7260437610551": {
+    "title": "Liberty Skis Radian 92 - 2025 (Demo)",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Radian"
+    ],
+    "terrain": [
+      "Directional Free"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "167",
+      "173",
+      "179",
+      "185"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "compare_at_price": [
+      "1024.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2025",
+    "product_name": "Radian 92",
+    "demo": true,
+    "bindings": "Tyrolia Attack2 14 demo bindings and brakes"
+  },
+  "7260437643319": {
+    "title": "Liberty Skis Scope 104 - 2025 (Demo)",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "164",
+      "172",
+      "180",
+      "188"
+    ],
+    "price": [
+      "749.99"
+    ],
+    "compare_at_price": [
+      "1024.99"
+    ],
+    "model_year": "2025",
+    "product_name": "Scope 104",
+    "demo": "DEMO",
+    "bindings": "Tyrolia Attack2 14",
+    "breaks": "demo brakes",
+    "warranty": "No warranty",
+    "type": "Big mountain freeride",
+    "width": "Narrow enough for groomers",
+    "stability": "Phenolic plate under foot",
+    "weight": "Overall lighter weight"
+  },
+  "7260437708855": {
+    "title": "Liberty Skis Scope 110 - 2025 (Demo)",
+    "ability": [
+      "Advanced",
+      "Expert"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "110-119mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "176",
+      "182",
+      "190"
+    ],
+    "price": [
+      "799.99"
+    ],
+    "compare_at_price": [
+      "1074.99",
+      "1024.99"
+    ],
+    "model_year": "2025",
+    "product_name": "Scope 110",
+    "type": "DEMO ski",
+    "bindings": "Tyrolia Attack2 14 demo bindings and brakes",
+    "warranty": "no warranty",
+    "conditions": "snowing and accumulating"
+  },
+  "7260437839927": {
+    "title": "Liberty Skis Scope 84 - 2025 (Demo)",
+    "ability": [
+      "Beginner",
+      "Intermediate"
+    ],
+    "gender": [
+      "junior"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "128",
+      "138",
+      "148",
+      "158",
+      "168"
+    ],
+    "price": [
+      "429.99"
+    ],
+    "compare_at_price": [
+      "1024.99"
+    ],
+    "model_year": "2025",
+    "ski_model": "Scope 84",
+    "status": "DEMO",
+    "bindings": "Tyrolia Attack2 11 demo bindings and brakes",
+    "warranty": "No warranty",
+    "size": "168cm",
+    "core": "bamboo and poplar",
+    "construction": "full sidewall",
+    "shape": "twin tip"
+  },
+  "7260437905463": {
+    "title": "Liberty Skis Scope 94 - 2025 (Demo)",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "164",
+      "172",
+      "180",
+      "186"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "compare_at_price": [
+      "1024.99"
+    ],
+    "grams": [
+      "3629"
+    ],
+    "model_year": "2025",
+    "product_name": "Scope 94",
+    "demo": true,
+    "bindings": "Tyrolia Attack2 14",
+    "warranty": "No warranty",
+    "description": "The all new Scope 94 makes every day a new adventure. Whether you are hiking Wild Child at Loveland or ripping groomers down Birds of Prey at Beaver Creek, the Scope 94 was the right ski to grab out of the garage. We like to say that the skis in the Scope Series are our fun, freeride skis and that is exactly the emotion that the Scope 94 is known for, fun. Produced in our European-managed factory, this freeride ski will literally take you anywhere and everywhere that a ski area has to offer all while smiling from ear to ear."
+  },
+  "7260437250103": {
+    "title": "Liberty Skis Genome - 2025 (Demo)",
+    "ability": [
+      "Advanced"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Genome"
+    ],
+    "terrain": [
+      "Powder"
+    ],
+    "waist": [
+      "> 119mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "181",
+      "187",
+      "194"
+    ],
+    "price": [
+      "899.99"
+    ],
+    "compare_at_price": [
+      "1174.99"
+    ],
+    "model_year": "2025",
+    "product_name": "Genome",
+    "condition": "DEMO",
+    "binding": "Tyrolia Attack2 14",
+    "warranty": "no warranty",
+    "width": "141 millimeters"
+  },
+  "6910248910903": {
+    "title": "Liberty Skis Origin 96 (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Origin"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "DEMO",
+    "Length (cm)": [
+      "171",
+      "176",
+      "182",
+      "187"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1074.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2024",
+    "bindings": "Tyrolia Attack2 14 demo bindings and brakes",
+    "warranty": "No warranty",
+    "length_(cm)": [
+      "171cm",
+      "176cm",
+      "182cm",
+      "187cm"
+    ],
+    "dimensions_(mm)": [
+      "130-96-118"
+    ],
+    "radius_(m)": [
+      "16.5m",
+      "17.5m",
+      "19m",
+      "20m"
+    ],
+    "weight_(g)": [
+      "1750g",
+      "1830g",
+      "1875g",
+      "1945g"
+    ],
+    "core_profile": "VMT 1.0® combines our signature bamboo and poplar wood core, a central aluminum alloy strut and precured carbon fiber strips",
+    "effective_turning_edge": "70%",
+    "tip_rocker": "20%",
+    "tail_rocker": "10%"
+  },
+  "6910248976439": {
+    "title": "Liberty Skis Helix 98 (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men",
+      "unisex",
+      "women"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "165",
+      "172",
+      "179",
+      "186"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1004.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "165cm",
+      "172cm",
+      "179cm",
+      "186cm"
+    ],
+    "dimensions_(mm)": [
+      "133-98-121"
+    ],
+    "radius_(m)": [
+      "17m",
+      "18m",
+      "19.5m",
+      "21m"
+    ],
+    "weight_(g)": [
+      "1700g",
+      "1800g",
+      "1900g",
+      "2000g"
+    ],
+    "mount_position": [
+      "745mm",
+      "780mm",
+      "815mm",
+      "850mm"
+    ]
+  },
+  "7076363567159": {
+    "title": "Liberty Skis Genesis 106 (Demo)",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Genesis"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "157",
+      "164",
+      "171"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1074.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "157cm",
+      "164cm",
+      "171cm"
+    ],
+    "dimensions_(mm)": "138-106-128",
+    "radius_(m)": [
+      "13m",
+      "15m",
+      "17m"
+    ],
+    "weight_(g)*": [
+      "1675g",
+      "1725g",
+      "1785g"
+    ],
+    "core_profile": "Tailored Specifically for women, VMT 1.0W® adds paulownia to the bamboo and poplar wood for a lighter more compliant ride, while maintaining the inherent power and stability of aluminum alloy and carbon fiber"
+  },
+  "6910248615991": {
+    "title": "Liberty Skis Genesis 101 (Demo)",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Genesis"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165",
+      "171"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1024.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2024",
+    "condition": "DEMO",
+    "bindings": "Tyrolia Attack2 11 demo",
+    "warranty": "No warranty",
+    "length": [
+      "151cm",
+      "158cm",
+      "165cm",
+      "171cm"
+    ],
+    "dimensions": [
+      "135-101-122"
+    ],
+    "radius": [
+      "12.5m",
+      "13.5m",
+      "15m",
+      "16.5m"
+    ],
+    "weight": [
+      "1585g",
+      "1640g",
+      "1705g",
+      "1775g"
+    ],
+    "core": "VMT 1.0W® - bamboo, poplar, paulownia, aluminum alloy and carbon fiber",
+    "rocker_tip": "20%",
+    "rocker_tail": "10%",
+    "effective_turning_edge": "70%"
+  },
+  "6910248452151": {
+    "title": "Liberty Skis Genesis 96 (Demo)",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Genesis"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165",
+      "171"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "994.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2024",
+    "type": "DEMO",
+    "bindings": "Tyrolia Attack2 11 demo",
+    "dimensions": "130-96-117mm",
+    "lengths": [
+      "151cm",
+      "158cm",
+      "165cm",
+      "171cm"
+    ],
+    "radius": [
+      "12.5m",
+      "14m",
+      "15m",
+      "16.5m"
+    ],
+    "weight": [
+      "1550g",
+      "1600g",
+      "1685g",
+      "1725g"
+    ],
+    "core": "VMT 1.0W®",
+    "rocker_profile": "Tip and tail rocker with positive camber underfoot",
+    "effective_turning_edge": "70%",
+    "tip_rocker": "20%",
+    "tail_rocker": "10%"
+  },
+  "6910248878135": {
+    "title": "Liberty Skis Origin 101 (Demo)",
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "171",
+      "176",
+      "182",
+      "187"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1104.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2024",
+    "description": "DEMO ski - it has been used at on-snow demos.",
+    "binding": "Tyrolia Attack2 14 demo bindings and brakes",
+    "warranty": "None",
+    "length_(cm)": [
+      "171cm",
+      "176cm",
+      "182cm",
+      "187cm"
+    ],
+    "dimensions_(mm)": [
+      "135-101-123"
+    ],
+    "radius_(m)": [
+      "16.5m",
+      "17.5m",
+      "19m",
+      "20m"
+    ],
+    "weight_(g)": [
+      "1800g",
+      "1860g",
+      "1925g",
+      "1990g"
+    ],
+    "core_profile": "VMT 1.0®",
+    "core_profile_description": "VMT 1.0® combines our signature bamboo and poplar wood core, a central aluminum alloy strut and precured carbon fiber strips on top to help maintain directional stability and torsional rigidity.",
+    "rocker_profile": "Tip and tail rocker with positive camber underfoot",
+    "effective_turning_edge": 70,
+    "tip_rocker": 20,
+    "tail_rocker": 10
+  },
+  "7076363305015": {
+    "title": "Liberty Skis Origin 106 (Demo)",
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "171",
+      "176",
+      "182",
+      "187"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1350.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "171cm",
+      "176cm",
+      "182cm",
+      "187cm"
+    ],
+    "dimensions_(mm)": [
+      "138-106-128"
+    ],
+    "radius_(m)": [
+      "17m",
+      "18m",
+      "20m",
+      "21.5m"
+    ],
+    "weight_(g)*": [
+      "1850g",
+      "1920g",
+      "1980g",
+      "2040g"
+    ]
+  },
+  "6910248550455": {
+    "title": "Liberty Skis Evolv 90w (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "1024.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2024",
+    "demo": "DEMO ski",
+    "bindings": "Tyrolia Attack2 11 demo bindings and brakes",
+    "warranty": "No warranty",
+    "length_(cm)": [
+      "151cm",
+      "158cm",
+      "165cm",
+      "172cm"
+    ],
+    "dimensions_(mm)": [
+      "132-90-115"
+    ],
+    "radius_(m)": [
+      "12.5m",
+      "14m",
+      "15.5m",
+      "17m"
+    ],
+    "weight_(g)": [
+      "1455g",
+      "1520g",
+      "1600g",
+      "1700g"
+    ],
+    "core_profile": "VMT3.0W®",
+    "sidewall": "poured polyurethane",
+    "rocker_tip": "early-rise",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "15%"
+  },
+  "6646058680375": {
+    "title": "Liberty Skis Genesis 106 Backcountry - 2023",
+    "ability": [
+      "Advanced",
+      "Expert"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Genesis"
+    ],
+    "terrain": [
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2023 Skis",
+    "Length (cm)": [
+      "157",
+      "164",
+      "171"
+    ],
+    "price": [
+      "399.99"
+    ],
+    "compare_at_price": [
+      "1045.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "length_(cm)": [
+      "157cm",
+      "164cm",
+      "171cm"
+    ],
+    "dimensions_(mm)": [
+      "138-106-127",
+      "138-106-128",
+      "138-106-128"
+    ],
+    "radius_(m)": [
+      "13m",
+      "15m",
+      "17m"
+    ],
+    "weight_(g)*": [
+      "1450g",
+      "1500g",
+      "1550g"
+    ],
+    "core": [
+      "lightweight aspen with carbon fiber"
+    ],
+    "effective_turning_edge": "75%",
+    "tip_rocker": "20%",
+    "tail_rocker": "5%"
+  },
+  "6908641181751": {
+    "title": "Liberty Skis Genome 2025",
+    "ability": [
+      "Advanced"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Genome"
+    ],
+    "terrain": [
+      "Powder"
+    ],
+    "waist": [
+      "> 119mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "181",
+      "187",
+      "194"
+    ],
+    "price": [
+      "899.99"
+    ],
+    "location": [
+      "Steamboat",
+      "Niseko"
+    ],
+    "snowfall": "15 inches",
+    "width": "141 millimeters"
+  },
+  "7108049600567": {
+    "title": "Limited Edition Dartmouth Radian 92",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Radian"
+    ],
+    "terrain": [
+      "Directional Free"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Special Edition Ski",
+    "Length (cm)": [
+      "167",
+      "179"
+    ],
+    "price": [
+      "1200.00"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": "[167cm, 179cm]",
+    "dimensions_(mm)": "[130-92-116]",
+    "radius_(m)": "[15.5m, 18m]",
+    "weight_(g)*": "[1485g, 1600g]",
+    "core_profile": "VMT or Variable Metal Technology is our next generation of metal core reinforcement. A layer of Titanal is added in a horizontal layup, starting as a full width layer under foot but tapered proportionally along the poplar, ash, and carbon fiber core. This allows skis equipped with our new VMT to flex in the tip and tail to absorb terrain and initiate turns easily, yet feel rock solid in the middle of the turn.",
+    "effective_turning_edge": "76%",
+    "tip_rocker": "16%",
+    "tail_rocker": "8%"
+  },
+  "6908641574967": {
+    "title": "Liberty Skis Scope 94w - 2025",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "152",
+      "158",
+      "164"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "model": "Scope 94W",
+    "type": "women’s",
+    "construction": [
+      "Poplar and ash mixed with a phenolic plate under foot",
+      "High-carbon race bases"
+    ],
+    "performance": [
+      "smash powder and crud with ease",
+      "lighter than previous models",
+      "blend of playfulness and edge hold",
+      "motoring on long cat tracks",
+      "extra juice",
+      "impressively light, playful, and creative",
+      "perfect for freestyle and freeride-oriented skiers",
+      "progressive rocker profile and positive camber underfoot",
+      "unique blend of energy, stability, and responsiveness"
+    ]
+  },
+  "6908641542199": {
+    "title": "Liberty Skis Scope 94 - 2025",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "164",
+      "172",
+      "180",
+      "186"
+    ],
+    "price": [
+      "699.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "grams": [
+      "3629"
+    ]
+  },
+  "6908641509431": {
+    "title": "Liberty Skis Scope 84 - 2025",
+    "ability": [
+      "Beginner",
+      "Intermediate"
+    ],
+    "gender": [
+      "junior"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "128",
+      "138",
+      "148",
+      "158",
+      "168"
+    ],
+    "price": [
+      "429.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "model_year": "2024",
+    "previous_model_name": "Helix 84",
+    "new_size": "168cm",
+    "intended_use": "tweener ski",
+    "suitable_skier": "junior skier transitioning to adult skis",
+    "core_material": "bamboo and poplar",
+    "construction": "full sidewall",
+    "ski_shape": "twin tip"
+  },
+  "6908641476663": {
+    "title": "Liberty Skis Scope 110 - 2025",
+    "ability": [
+      "Advanced",
+      "Expert"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "110-119mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "176",
+      "182",
+      "190"
+    ],
+    "price": [
+      "799.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "product_name": "Scope 110",
+    "category": "skis"
+  },
+  "6908641443895": {
+    "title": "Liberty Skis Scope 104 - 2025",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Scope"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "ski",
+    "Length (cm)": [
+      "164",
+      "172",
+      "180",
+      "188"
+    ],
+    "price": [
+      "749.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "product_name": "Scope 104",
+    "model_year": "2025",
+    "intended_use": "big mountain freeride",
+    "ski_width": "narrow to wide",
+    "flex": "compliant",
+    "turn_radius": "short",
+    "ski_ability": "beginner to expert",
+    "other_features": [
+      "soft tips and tails",
+      "phenolic plate under foot for stability",
+      "lightweight"
+    ],
+    "awards": [
+      "FREESKIER Editor's Pick 2024-25",
+      "Blister Gear Recommended 2024-25"
+    ],
+    "reviews": [
+      "Freeskier",
+      "Ski Essentials",
+      "Ski Talk"
+    ]
+  },
+  "6908641411127": {
+    "title": "Liberty Skis Radian 92 - 2025",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Radian"
+    ],
+    "terrain": [
+      "Directional Free"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "167",
+      "173",
+      "179",
+      "185"
+    ],
+    "price": [
+      "749.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "key": "Ski Essentials Review",
+    "width": "88",
+    "height": "52"
+  },
+  "6908641378359": {
+    "title": "Liberty Skis Radian 100 - 2025",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Radian"
+    ],
+    "terrain": [
+      "Directional Free",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "167",
+      "173",
+      "179",
+      "185"
+    ],
+    "price": [
+      "799.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "performance": [
+      "all-mountain",
+      "big mountain powder chasing",
+      "carving",
+      "stability in the moguls",
+      "quick",
+      "fun to carve",
+      "outperforms it's width in fresh snow"
+    ],
+    "weight": [
+      "100 grams per ski lighter than an Evolv100 in the same size"
+    ],
+    "awards": [
+      "FREESKIER Editor's Pick 2024-25",
+      "Blister Gear Recommended 2024-25",
+      "Real Skiers Recommended 2024-25"
+    ],
+    "width": [
+      "100mm-waist"
+    ]
+  },
+  "6908641345591": {
+    "title": "Liberty Skis Horizon 92 - 2025",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Horizon"
+    ],
+    "terrain": [
+      "Directional Free"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "145",
+      "152",
+      "159",
+      "167"
+    ],
+    "price": [
+      "749.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": [
+      "poplar",
+      "ash"
+    ],
+    "core": "poplar and ash",
+    "construction": [
+      "variable metal laminate,"
+    ],
+    "features": [
+      "tip and tail stay playful",
+      "titanal metal under foot gives the ski incredible edge hold and dampness",
+      "excel in short to mid-range turns"
+    ],
+    "performance": [
+      "incredible edge hold",
+      "smooth performance",
+      "handle crud and chop with ease",
+      "light and energetic",
+      "stiff, stable feel"
+    ],
+    "recommended_for": "Skiers who love the sensation of a clean, unwavering carve"
+  },
+  "6908641312823": {
+    "title": "Liberty Skis Helix 99w - 2025",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165"
+    ],
+    "price": [
+      "649.99"
+    ],
+    "compare_at_price": [
+      "649.00"
+    ],
+    "available": [
+      "true"
+    ],
+    "model": "Helix 99W",
+    "predecessor": "Helix 89W",
+    "construction": [
+      "Bamboo",
+      "poplar",
+      "carbon fiber"
+    ],
+    "rocker": "tip and tail",
+    "tip_and_tail_modification": "softened by about 10%"
+  },
+  "6908641280055": {
+    "title": "Liberty Skis Helix 99 - 2025",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "165",
+      "172",
+      "179",
+      "186"
+    ],
+    "price": [
+      "649.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": [
+      "Bamboo",
+      "poplar",
+      "carbon fiber"
+    ],
+    "topsheet": "ultra durable"
+  },
+  "6908641214519": {
+    "title": "Liberty Skis Helix 89 - 2025",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men",
+      "unisex"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "Freestyle"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "168",
+      "175",
+      "182"
+    ],
+    "price": [
+      "599.99"
+    ],
+    "available": [
+      "true"
+    ],
+    "product_name": "Helix 89",
+    "features": [
+      "Updated and increased tip and tail rocker",
+      "moderately stiff midsection",
+      "super playful feel"
+    ],
+    "intended_use": [
+      "park days",
+      "all mountain tool"
+    ]
+  },
+  "6924465274935": {
+    "title": "Liberty Skis PomPom Hat",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Title": [
+      "Blue/Green"
+    ],
+    "price": [
+      "22.00"
+    ],
+    "available": [
+      "true"
+    ],
+    "brand": "Liberty",
+    "material": "acrylic",
+    "size": "One Size Fits All",
+    "season": "winter"
+  },
+  "6924465209399": {
+    "title": "Liberty Skis 20 Years Deep Hat",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Color": [
+      "Gray",
+      "Blue"
+    ],
+    "price": [
+      "29.95"
+    ],
+    "available": [
+      "true"
+    ],
+    "product_name": "20 Years Deep Hat",
+    "occasion": [
+      "any occasion",
+      "après",
+      "dressing to impress"
+    ],
+    "anniversary": "20th",
+    "company_type": "independent ski company"
+  },
+  "6924465143863": {
+    "title": "Liberty Skis 20 Years Deep Tee",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Size": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": [
+      "19.95"
+    ],
+    "grams": [
+      "113"
+    ],
+    "available": [
+      "true"
+    ],
+    "occasion": [
+      "any occasion",
+      "après ski",
+      "dressing to impress"
+    ],
+    "anniversary": "20th"
+  },
+  "6910248943671": {
+    "title": "Liberty Skis Helix 88 (Demo)",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men",
+      "unisex",
+      "women"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "Freestyle"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "168",
+      "175",
+      "182"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "904.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "model_year": "2024",
+    "condition": "DEMO",
+    "length_(cm)": [
+      "168cm",
+      "175cm",
+      "182cm"
+    ],
+    "dimensions_(mm)": [
+      "118-88-118"
+    ],
+    "radius_(m)": [
+      "16/13m",
+      "17/14m",
+      "18/15m"
+    ],
+    "weight_(g)*": [
+      "1500g",
+      "1650g",
+      "1750g"
+    ],
+    "core_profile": "Speedcore Carbon",
+    "effective_turning_edge": "90%",
+    "tip_rocker": "5%",
+    "tail_rocker": "5%"
+  },
+  "6910249074743": {
+    "title": "Liberty Skis Genesis 90 (Demo)",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Genesis"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "954.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "151cm",
+      "158cm",
+      "165cm"
+    ],
+    "dimensions_(mm)": [
+      "126-90-111",
+      "126-90-112",
+      "126-90-112"
+    ],
+    "radius_(m)": [
+      "12m",
+      "13m",
+      "15m"
+    ],
+    "weight_(g)*": [
+      "1520g",
+      "1585g",
+      "1650g"
+    ],
+    "core_profile": "Tailored Specifically for women, VMT 1.0W® adds paulownia to the bamboo and poplar wood for a lighter more compliant ride, while maintaining the inherent power and stability of aluminum alloy and carbon fiber",
+    "rocker_profile": "Incorporates tip and tail rocker with positive camber underfoot for maximum floatation and playful feel, while maintaining hard-snow performance.",
+    "effective_turning_edge": "75%",
+    "tip_rocker": "15%",
+    "tail_rocker": "10%"
+  },
+  "6910248812599": {
+    "title": "Liberty Skis Evolv 84w (Demo)",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "Demo",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165"
+    ],
+    "price": [
+      "499.99"
+    ],
+    "compare_at_price": [
+      "994.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "151cm",
+      "158cm",
+      "165cm"
+    ],
+    "dimensions_(mm)": "126-84-110",
+    "radius_(m)": [
+      "11.5m",
+      "13m",
+      "14.5m"
+    ],
+    "weight_(g)*": [
+      "1420g",
+      "1495g",
+      "1550g"
+    ],
+    "core_profile": "VMT3.0w® includes the same two additional aluminum alloy struts and pre-cured carbon fiber as well as lightweight paulownia in place of the outer layers of poplar wood.",
+    "rocker_profile": "Hammer Rocker comes armed with an early-rise tip and camber back to the tail for powerful edge grip and precise turn shape.",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "15%"
+  },
+  "1436886499383": {
+    "title": "Liberty Ski Bag",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "price": [
+      "199.00"
+    ],
+    "compare_at_price": [
+      "269.00"
+    ],
+    "grams": [
+      "2722"
+    ],
+    "available": [
+      "true"
+    ],
+    "name": "Liberty Ski Shield™ Ski/Snowboard Bag",
+    "capacity": "6896 cubic inch (113 liters)",
+    "weight": "7.5 LBS (3400 grams)",
+    "features": [
+      "Holds 3 pairs of any type skis and poles up to 190cm plus other gear or 2 snowboards with bindings",
+      "Airline/Check-in compliant",
+      "Fully padded ski compartment",
+      "Durable and whisper quiet inline skate wheels",
+      "Fits skis up to 190cm including powder skis",
+      "<i>Gear Shield™</i> technology at tip and tail",
+      "Hitchin™ technology allows a bag to quickly and easily con nect to Ski Shield™ bag",
+      "Internal binding protector",
+      "Internal pockets for personal items",
+      "External and internal load control straps",
+      "Strong, lightweight, 840D polyester ballistic fabric",
+      "Padded <i>Easy Grab™</i>pull handle",
+      "Padded carry handle",
+      "Bright colored interior linings",
+      "Vents and drainage holes for airflow",
+      "High quality YKK coil zippers with heavy duty web pulls",
+      "Water resistant polyurethane coating",
+      "Double needle stitching"
+    ]
+  },
+  "6838113992759": {
+    "title": "Liberty Skis Genesis 106",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Genesis"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "157",
+      "164",
+      "171"
+    ],
+    "price": [
+      "399.00"
+    ],
+    "compare_at_price": [
+      "749.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "157cm",
+      "164cm",
+      "171cm"
+    ],
+    "dimensions_(mm)": [
+      "138-106-128"
+    ],
+    "radius_(m)": [
+      "13m",
+      "15m",
+      "17m"
+    ],
+    "weight_(g)*": [
+      "1675g",
+      "1725g",
+      "1785g"
+    ]
+  },
+  "6786723872823": {
+    "title": "Liberty Skis Genesis 101",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Genesis"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165",
+      "171"
+    ],
+    "price": [
+      "385.00"
+    ],
+    "compare_at_price": [
+      "699.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "151cm",
+      "158cm",
+      "165cm",
+      "171cm"
+    ],
+    "dimensions_(mm)": [
+      "135-101-122",
+      "135-101-122",
+      "135-101-122",
+      "135-101-122"
+    ],
+    "radius_(m)": [
+      "12.5m",
+      "13.5m",
+      "15m",
+      "16.5m"
+    ],
+    "weight_(g)*": [
+      "1585g",
+      "1640g",
+      "1705g",
+      "1775g"
+    ],
+    "mount_position": [
+      "690mm",
+      "715mm",
+      "745mm",
+      "770mm"
+    ]
+  },
+  "6786723840055": {
+    "title": "Liberty Skis Helix 84",
+    "ability": [
+      "Beginner",
+      "Intermediate"
+    ],
+    "gender": [
+      "junior"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "128",
+      "138",
+      "148",
+      "158"
+    ],
+    "price": [
+      "219.00"
+    ],
+    "compare_at_price": [
+      "399.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "128cm",
+      "138cm",
+      "148cm",
+      "158cm"
+    ],
+    "dimensions_(mm)": [
+      "115-84-110"
+    ],
+    "radius_(m)": [
+      "12m",
+      "13m",
+      "14m",
+      "15.5m"
+    ],
+    "weight_(g)": [
+      "1115g",
+      "1375g",
+      "1450g",
+      "1550g"
+    ],
+    "core_profile": "Speedcore Carbon -  bamboo, poplar, and carbon core",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "10%",
+    "tail_rocker": "5%",
+    "mount_position": [
+      "580mm",
+      "630mm",
+      "680mm",
+      "730mm"
+    ]
+  },
+  "6786723807287": {
+    "title": "Liberty Skis Helix 88",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men",
+      "unisex",
+      "women"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "Freestyle"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "168",
+      "175",
+      "182"
+    ],
+    "price": [
+      "289.99"
+    ],
+    "compare_at_price": [
+      "529.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "168cm",
+      "175cm",
+      "182cm"
+    ],
+    "dimensions_(mm)": [
+      "118-88-118",
+      "118-88-118",
+      "118-88-118"
+    ],
+    "radius_(m)": [
+      "16/13m",
+      "17/14m",
+      "18/15m"
+    ],
+    "weight_(g)": [
+      "1500g",
+      "1650g",
+      "1750g"
+    ],
+    "core_profile": "Speedcore Carbon bamboo, poplar, and carbon core",
+    "rocker_profile": "Classic Camber",
+    "effective_turning_edge": "90%",
+    "tip_rocker": "5%",
+    "tail_rocker": "5%"
+  },
+  "6786723774519": {
+    "title": "Liberty Skis Helix 98",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men",
+      "unisex",
+      "women"
+    ],
+    "series": [
+      "Helix"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "165",
+      "172",
+      "179",
+      "186"
+    ],
+    "price": [
+      "329.99"
+    ],
+    "compare_at_price": [
+      "629.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "165cm",
+      "172cm",
+      "179cm",
+      "186cm"
+    ],
+    "dimensions_(mm)": [
+      "133-98-121",
+      "133-98-121",
+      "133-98-121",
+      "133-98-121"
+    ],
+    "radius_(m)": [
+      "17m",
+      "18m",
+      "19.5m",
+      "21m"
+    ],
+    "weight_(g)*": [
+      "1700g",
+      "1800g",
+      "1900g",
+      "2000g"
+    ],
+    "core_profile": "Speedcore Carbon",
+    "tip_rocker": "10%",
+    "tail_rocker": "5%",
+    "effective_turning_edge": "85%",
+    "mount_position": [
+      "745mm",
+      "780mm",
+      "815mm",
+      "850mm"
+    ]
+  },
+  "6786723741751": {
+    "title": "Liberty Skis Genesis 90",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Genesis"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165"
+    ],
+    "price": [
+      "345.00"
+    ],
+    "compare_at_price": [
+      "629.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "151cm",
+      "158cm",
+      "165cm"
+    ],
+    "dimensions_(mm)": [
+      "126-90-111",
+      "126-90-112",
+      "126-90-112"
+    ],
+    "radius_(m)": [
+      "12m",
+      "13m",
+      "15m"
+    ],
+    "weight_(g)*": [
+      "1520g",
+      "1585g",
+      "1650g"
+    ],
+    "core_profile": "VMT 1.0W® adds paulownia to the bamboo and poplar wood for a lighter more compliant ride, while maintaining the inherent power and stability of aluminum alloy and carbon fiber",
+    "rocker_profile": "Incorporates tip and tail rocker with positive camber underfoot for maximum floatation and playful feel, while maintaining hard-snow performance.",
+    "effective_turning_edge": "75%",
+    "tip_rocker": "15%",
+    "tail_rocker": "10%"
+  },
+  "6786723676215": {
+    "title": "Liberty Skis Origin 106",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Origin"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "171",
+      "176",
+      "182",
+      "187"
+    ],
+    "price": [
+      "425.00"
+    ],
+    "compare_at_price": [
+      "779.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "171cm",
+      "176cm",
+      "182cm",
+      "187cm"
+    ],
+    "dimensions_(mm)": [
+      "138-106-128",
+      "138-106-128",
+      "138-106-128",
+      "138-106-128"
+    ],
+    "radius_(m)": [
+      "17m",
+      "18m",
+      "20m",
+      "21.5m"
+    ],
+    "weight_(g)*": [
+      "1850g",
+      "1920g",
+      "1980g",
+      "2040g"
+    ],
+    "core_profile": "VMT 1.0® combines our signature bamboo and poplar wood core, a central aluminum alloy strut and precured carbon fiber strips on top to help maintain directional stability and torsional rigidity.",
+    "rocker_profile": "Incorporates tip and tail rocker with positive camber underfoot for maximum floatation and playful feel, while maintaining hard-snow performance.",
+    "effective_turning_edge": "65%",
+    "tip_rocker": "20%",
+    "tail_rocker": "15%",
+    "mount_position": [
+      "770mm",
+      "800mm",
+      "825mm",
+      "850mm"
+    ]
+  },
+  "6786723643447": {
+    "title": "Liberty Skis Origin 101",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Origin"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "171",
+      "176",
+      "182",
+      "187"
+    ],
+    "price": [
+      "399.00"
+    ],
+    "compare_at_price": [
+      "729.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "construction": "VMT 1.0®",
+    "sidewalls": "PU",
+    "length": [
+      "171cm",
+      "176cm",
+      "182cm",
+      "187cm"
+    ],
+    "dimensions": "135-101-123",
+    "radius": [
+      "16.5m",
+      "17.5m",
+      "19m",
+      "20m"
+    ],
+    "weight": [
+      "1800g",
+      "1860g",
+      "1925g",
+      "1990g"
+    ],
+    "rocker_profile": "tip and tail rocker with positive camber underfoot",
+    "effective_turning_edge": "70%",
+    "tip_rocker": "20%",
+    "tail_rocker": "10%"
+  },
+  "6786723610679": {
+    "title": "Liberty Skis Origin 96",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Origin"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "171",
+      "176",
+      "182",
+      "187"
+    ],
+    "price": [
+      "385.00"
+    ],
+    "compare_at_price": [
+      "699.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "171cm",
+      "176cm",
+      "182cm",
+      "187cm"
+    ],
+    "dimensions_(mm)": [
+      "130-96-118",
+      "130-96-118",
+      "130-96-118",
+      "130-96-118"
+    ],
+    "radius_(m)": [
+      "16.5m",
+      "17.5m",
+      "19m",
+      "20m"
+    ],
+    "weight_(g)*": [
+      "1750g",
+      "1830g",
+      "1875g",
+      "1945g"
+    ],
+    "effective_turning_edge": "70%",
+    "tip_rocker": "20%",
+    "tail_rocker": "10%"
+  },
+  "6786723577911": {
+    "title": "Liberty Skis Evolv 90w",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165"
+    ],
+    "price": [
+      "385.00"
+    ],
+    "compare_at_price": [
+      "699.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "151cm",
+      "158cm",
+      "165cm",
+      "172cm"
+    ],
+    "dimensions_(mm)": [
+      "132-90-115",
+      "132-90-115",
+      "132-90-115",
+      "132-90-115"
+    ],
+    "radius_(m)": [
+      "12.5m",
+      "14m",
+      "15.5m",
+      "17m"
+    ],
+    "weight_(g)*": [
+      "1455g",
+      "1520g",
+      "1600g",
+      "1700g"
+    ],
+    "core_profile": "VMT3.0W®",
+    "tip_rocker": "15%",
+    "effective_turning_edge": "85%"
+  },
+  "6786723545143": {
+    "title": "Liberty Skis Evolv 84w",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165"
+    ],
+    "price": [
+      "365.00"
+    ],
+    "compare_at_price": [
+      "669.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "151cm",
+      "158cm",
+      "165cm"
+    ],
+    "dimensions_(mm)": [
+      "126-84-110",
+      "126-84-110",
+      "126-84-110"
+    ],
+    "radius_(m)": [
+      "11.5m",
+      "13m",
+      "14.5m"
+    ],
+    "weight_(g)*": [
+      "1420g",
+      "1495g",
+      "1550g"
+    ],
+    "core_profile": "Tailored specifically for women, VMT3.0w® includes the same two additional aluminum alloy struts and pre-cured carbon fiber as well as lightweight paulownia in place of the outer layers of poplar wood.",
+    "rocker_profile": "Hammer Rocker comes armed with an early-rise tip and camber back to the tail for powerful edge grip and precise turn shape.",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "15%",
+    "mount_position": {
+      "151cm": "650mm",
+      "158cm": "685mm",
+      "165cm": "720mm"
+    }
+  },
+  "6786723512375": {
+    "title": "Liberty Skis Evolv 110",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free",
+      "Powder"
+    ],
+    "waist": [
+      "110-119mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "179",
+      "186"
+    ],
+    "price": [
+      "475.00"
+    ],
+    "compare_at_price": [
+      "869.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "179cm",
+      "186cm"
+    ],
+    "dimensions_(mm)": [
+      "144-110-128",
+      "144-110-128"
+    ],
+    "radius_(m)": [
+      "21m",
+      "23m"
+    ],
+    "weight_(g)": [
+      "2085g",
+      "2255g"
+    ],
+    "core_profile": "VMT 3.0®",
+    "effective_turning_edge": "80%",
+    "tip_rocker": "20%",
+    "mount_position": [
+      "780mm",
+      "815mm"
+    ]
+  },
+  "6786723479607": {
+    "title": "Liberty Skis Evolv 100",
+    "ability": [
+      "Advanced",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free",
+      "Powder"
+    ],
+    "waist": [
+      "100-109mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "172",
+      "179",
+      "186"
+    ],
+    "price": [
+      "439.00"
+    ],
+    "compare_at_price": [
+      "799.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "172cm",
+      "179cm",
+      "186cm"
+    ],
+    "dimensions_(mm)": [
+      "139-100-122",
+      "139-100-122",
+      "139-100-122"
+    ],
+    "radius_(m)": [
+      "17m",
+      "19m",
+      "21m"
+    ],
+    "weight_(g)": [
+      "1815g",
+      "1930g",
+      "2030g"
+    ],
+    "core_profile": "VMT 3.0®",
+    "rocker_profile": "Hammer Rocker",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "15%",
+    "mount_position": [
+      "755mm",
+      "790mm",
+      "820mm"
+    ]
+  },
+  "6786723446839": {
+    "title": "Liberty Skis Evolv 90",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "165",
+      "172",
+      "179",
+      "186"
+    ],
+    "price": [
+      "399.00"
+    ],
+    "compare_at_price": [
+      "749.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "165cm",
+      "172cm",
+      "179cm",
+      "186cm"
+    ],
+    "dimensions_(mm)": [
+      "132-90-114",
+      "132-90-114",
+      "132-90-114",
+      "132-90-114"
+    ],
+    "radius_(m)": [
+      "15.5m",
+      "17m",
+      "18.5m",
+      "20m"
+    ],
+    "weight_(g)*": [
+      "1625g",
+      "1700g",
+      "1860g",
+      "1975g"
+    ],
+    "core_profile": "VMT 3.0®",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "15%",
+    "mount_position": [
+      "720mm",
+      "755mm",
+      "790mm",
+      "820mm"
+    ]
+  },
+  "6786723414071": {
+    "title": "Liberty Skis Evolv 84",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men"
+    ],
+    "series": [
+      "Evolv"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Directional Free"
+    ],
+    "waist": [
+      "< 90mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "165",
+      "172",
+      "179",
+      "186"
+    ],
+    "price": [
+      "399.00"
+    ],
+    "compare_at_price": [
+      "729.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "165cm",
+      "172cm",
+      "179cm",
+      "186cm"
+    ],
+    "dimensions_(mm)": [
+      "126-84-110",
+      "126-84-110",
+      "126-84-110",
+      "126-84-110"
+    ],
+    "radius_(m)": [
+      "14.5m",
+      "16m",
+      "17.5m",
+      "19m"
+    ],
+    "weight_(g)*": [
+      "1530g",
+      "1650g",
+      "1710g",
+      "1800g"
+    ],
+    "core_profile": "VMT 3.0® takes our successful vertical metal core technology two steps further by adding two additional aluminum alloy struts on either side of the center strut. This creates a precise, quiet ride, that is light and nimble in difficult conditions.",
+    "rocker_profile": "Hammer Rocker comes armed with an early-rise tip and camber back to the tail for powerful edge grip and precise turn shape.",
+    "effective_turning_edge": "85%",
+    "tip_rocker": "15%",
+    "mount_position": [
+      "720mm",
+      "755mm",
+      "790mm",
+      "820mm"
+    ]
+  },
+  "6786723381303": {
+    "title": "Liberty Skis Genesis 96",
+    "ability": [
+      "Advanced",
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "women"
+    ],
+    "series": [
+      "Genesis"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freeride"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2024 Skis",
+    "Length (cm)": [
+      "151",
+      "158",
+      "165",
+      "171"
+    ],
+    "price": [
+      "365.00"
+    ],
+    "compare_at_price": [
+      "669.00"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "151cm",
+      "158cm",
+      "165cm",
+      "171cm"
+    ],
+    "dimensions_(mm)": [
+      "130-96-117",
+      "130-96-117",
+      "130-96-118",
+      "130-96-118"
+    ],
+    "radius_(m)": [
+      "12.5m",
+      "14m",
+      "15m",
+      "16.5m"
+    ],
+    "weight_(g)*": [
+      "1550g",
+      "1600g",
+      "1685g",
+      "1725g"
+    ],
+    "core_profile": "VMT 1.0W® adds paulownia to the bamboo and poplar wood for a lighter more compliant ride, while maintaining the inherent power and stability of aluminum alloy and carbon fiber",
+    "rocker_profile": "Incorporates tip and tail rocker with positive camber underfoot for maximum floatation and playful feel, while maintaining hard-snow performance.",
+    "effective_turning_edge": "70%",
+    "tip_rocker": "20%",
+    "tail_rocker": "10%"
+  },
+  "6712070602807": {
+    "title": "Liberty Skis x Coors Banquet Helix 98",
+    "ability": [
+      "Beginner",
+      "Expert",
+      "Intermediate"
+    ],
+    "gender": [
+      "men",
+      "unisex",
+      "women"
+    ],
+    "series": [
+      "Coors Banquet"
+    ],
+    "terrain": [
+      "All Mountain",
+      "Freestyle"
+    ],
+    "waist": [
+      "90-99mm"
+    ],
+    "vendor": "Liberty Skis",
+    "product_type": "2025 Skis",
+    "Length (cm)": [
+      "165",
+      "172",
+      "179"
+    ],
+    "price": [
+      "599.99"
+    ],
+    "grams": [
+      "3000"
+    ],
+    "available": [
+      "true"
+    ],
+    "length_(cm)": [
+      "165cm",
+      "172cm",
+      "179cm"
+    ],
+    "dimensions_(mm)": [
+      "133-98-121"
+    ],
+    "radius_(m)": [
+      "17m",
+      "18m",
+      "19.5m"
+    ],
+    "weight_(g)*": [
+      "1700g",
+      "1800g",
+      "1900g"
+    ],
+    "mount_position": [
+      "745mm",
+      "780mm",
+      "815mm"
+    ],
+    "effective_turning_edge": "85%",
+    "tip_rocker": "10%",
+    "tail_rocker": "5%",
+    "core": "Speedcore Carbon"
+  },
+  "6719547015223": {
+    "title": "Liberty Backcountry Adjustable Alloy Pole",
+    "vendor": "Liberty Skis",
+    "product_type": "Poles",
+    "price": [
+      "109.00"
+    ],
+    "grams": [
+      "200"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": "aluminum alloy",
+    "features": [
+      "2 section pole",
+      "18/16mm",
+      "Strong 7075-T6 aluminum alloy",
+      "PowerLock 2 locking mechanism",
+      "Lightweight, warm, foam grips",
+      "Ultra-supple nylon straps"
+    ],
+    "size": "110-135cm",
+    "grip": "foam grips",
+    "other": "adjustable",
+    "use_case": "powder day"
+  },
+  "6702638301239": {
+    "title": "Attack 14 GW Bindings",
+    "brake": [
+      "85mm [A]",
+      "95mm [A]",
+      "110 mm [A]"
+    ],
+    "din": "4-14",
+    "vendor": "Liberty Skis",
+    "product_type": "Bindings",
+    "Select Brake Width (mm)": [
+      "85",
+      "95",
+      "110"
+    ],
+    "price": [
+      "249.00"
+    ],
+    "grams": [
+      "2020"
+    ],
+    "toe": "FR PRO3",
+    "weight": "1720g (2020g w/ brake)",
+    "features": [
+      "FR PRO3 Toe allows for optimal tip up movement, even at 90°",
+      "NX FR Heel",
+      "77mm Metal AFD is more durable than plastic or Teflon anti-friction devices",
+      "17mm Stand Height"
+    ],
+    "compatibility": [
+      "Adult alpine ski boots (ISO 5355 TYPE A)",
+      "Adult walk ski boots (ISO 23223 TYPE A)"
+    ]
+  },
+  "6620667412535": {
+    "title": "Salty Beanie",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Color": [
+      "Grey"
+    ],
+    "price": [
+      "22.00"
+    ],
+    "compare_at_price": [
+      "22.00"
+    ],
+    "grams": [
+      "85"
+    ],
+    "available": [
+      "true"
+    ],
+    "product": "Ski Beanie",
+    "material": "Acrylic Blend",
+    "size": [
+      "One Size Fits All"
+    ]
+  },
+  "6646061203511": {
+    "title": "Ultralight Touring Adjustable Carbon Ski Pole",
+    "vendor": "Liberty Skis",
+    "product_type": "Poles",
+    "price": [
+      "199.00"
+    ],
+    "grams": [
+      "150"
+    ],
+    "available": [
+      "true"
+    ],
+    "size": [
+      "105-140cm"
+    ],
+    "features": [
+      "Powerlock 3.0 lock mechanism",
+      "Extended contour cork grip zones",
+      "Padded wrist straps",
+      "Ice-Flex carbide tips",
+      "Large snowflake baskets",
+      "Interchangeable basket system"
+    ]
+  },
+  "6603207737399": {
+    "title": "Proform / Shopform Low Priced Item + Flat Rate Pro-Shopform",
+    "vendor": "Liberty Skis",
+    "product_type": "",
+    "price": [
+      "44.95"
+    ],
+    "available": [
+      "true"
+    ],
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "color": [
+      "Space Black",
+      "Silver",
+      "Gold",
+      "Deep Purple"
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "display_size": "6.7 inches",
+    "display_type": "Super Retina XDR",
+    "camera": "48MP Main Camera",
+    "operating_system": "iOS 16"
+  },
+  "4285109534775": {
+    "title": "Liberty Skis Face Tube",
+    "vendor": "Liberty Skis",
+    "product_type": "Gear",
+    "Style": [
+      "Topo",
+      "Origin",
+      "Mountain",
+      "Glacier",
+      "Liberty Logo",
+      "Mountain Blue"
+    ],
+    "price": [
+      "5.00"
+    ],
+    "compare_at_price": [
+      "10.00"
+    ],
+    "grams": [
+      "57"
+    ],
+    "available": [
+      "true"
+    ],
+    "product_name": "Liberty Face Tube",
+    "features": [
+      "Quick-drying",
+      "breathable",
+      "protect your face from the elements",
+      "Offered in six different styles"
+    ],
+    "size": "One Size Fits All"
+  },
+  "681529737271": {
+    "title": "Retrolight Bamboo Ski Poles",
+    "vendor": "Liberty Skis",
+    "product_type": "Poles",
+    "Select Pole Length (cm)": [
+      "110",
+      "115",
+      "120",
+      "125",
+      "130",
+      "135"
+    ],
+    "price": [
+      "129.00"
+    ],
+    "grams": [
+      "150"
+    ],
+    "available": [
+      "true"
+    ],
+    "material": [
+      "carbon fiber",
+      "real bamboo"
+    ],
+    "grip": "Soft leather",
+    "basket": "powder baskets",
+    "tip": "tungsten/carbide",
+    "size": [
+      "110-135cm"
+    ]
+  }
+}

@@ -1,0 +1,1071 @@
+{
+  "vendor": "LibertySkis",
+  "facets": {
+    "ability": {
+      "Advanced": 46,
+      "Expert": 64,
+      "Intermediate": 63,
+      "Beginner": 45,
+      "Phenolic plate under foot": 1,
+      "beginner to expert": 1
+    },
+    "gender": {
+      "men": 43,
+      "women": 28,
+      "junior": 4,
+      "women's": 1,
+      "unisex": 7
+    },
+    "series": {
+      "Evolv": 11,
+      "Helix": 12,
+      "Horizon": 4,
+      "Radian": 8,
+      "Scope": 18,
+      "Genome": 3,
+      "Origin": 4,
+      "Genesis": 9,
+      "Coors Banquet": 1
+    },
+    "terrain": {
+      "All Mountain": 49,
+      "Directional Free": 23,
+      "Powder": 22,
+      "Freestyle": 25,
+      "Freeride": 23,
+      "Any mountain in North America and beyond": 1
+    },
+    "waist": {
+      "100-109mm": 19,
+      "90-99mm": 29,
+      "< 90mm": 14,
+      "slimmer waist": 1,
+      "99mm": 1,
+      "110-119mm": 5,
+      "141mm": 1,
+      "100mm": 1,
+      "> 119mm": 2
+    },
+    "product_type": {
+      "Demo": 26,
+      "2026 Skis": 12,
+      "ski": 2,
+      "Ski": 1,
+      "Gear": 13,
+      "": 3,
+      "skis": 1,
+      "Women's ski": 1,
+      "Big mountain freeride": 1,
+      "DEMO ski": 1,
+      "DEMO": 2,
+      "2023 Skis": 1,
+      "2025 Skis": 12,
+      "Special Edition Ski": 1,
+      "women’s": 1,
+      "2024 Skis": 16,
+      "Poles": 3,
+      "Bindings": 1,
+      "Ski Beanie": 1
+    },
+    "length__cm_": {
+      "128": 4,
+      "138": 4,
+      "145": 3,
+      "148": 4,
+      "151": 12,
+      "152": 10,
+      "157": 3,
+      "158": 20,
+      "159": 4,
+      "160": 2,
+      "164": 14,
+      "165": 21,
+      "167": 11,
+      "168": 9,
+      "171": 13,
+      "172": 18,
+      "173": 7,
+      "175": 4,
+      "176": 9,
+      "179": 20,
+      "180": 7,
+      "181": 3,
+      "182": 14,
+      "185": 7,
+      "186": 14,
+      "187": 9,
+      "188": 3,
+      "190": 4,
+      "194": 3,
+      "172cm": 11,
+      "179cm": 10,
+      "186cm": 9,
+      "165cm": 16,
+      "171cm": 12,
+      "176cm": 6,
+      "182cm": 8,
+      "187cm": 6,
+      "157cm": 3,
+      "164cm": 3,
+      "151cm": 9,
+      "158cm": 10,
+      "[167cm, 179cm]": 1,
+      "168cm": 2,
+      "175cm": 2,
+      "128cm": 1,
+      "138cm": 1,
+      "148cm": 1
+    },
+    "price": {
+      "499.99": 14,
+      "1174.00": 1,
+      "1134.00": 1,
+      "599.99": 5,
+      "874.99": 2,
+      "699.99": 11,
+      "749.99": 8,
+      "799.99": 5,
+      "849.99": 2,
+      "429.99": 3,
+      "899.99": 3,
+      "29.95": 6,
+      "34.95": 5,
+      "1104.00": 2,
+      "59.95": 3,
+      "69.95": 2,
+      "49.95": 1,
+      "0.00": 2,
+      "974.99": 1,
+      "629.99": 2,
+      "924.99": 2,
+      "1024.99": 6,
+      "1074.99": 2,
+      "1174.99": 1,
+      "1074.00": 2,
+      "1004.00": 1,
+      "1024.00": 2,
+      "994.00": 2,
+      "1350.00": 1,
+      "399.99": 1,
+      "1045.00": 1,
+      "1200.00": 1,
+      "649.99": 2,
+      "649.00": 1,
+      "22.00": 3,
+      "19.95": 1,
+      "904.00": 1,
+      "954.00": 1,
+      "199.00": 2,
+      "269.00": 1,
+      "399.00": 5,
+      "749.00": 2,
+      "385.00": 3,
+      "699.00": 3,
+      "219.00": 1,
+      "289.99": 1,
+      "529.00": 1,
+      "329.99": 1,
+      "629.00": 2,
+      "345.00": 1,
+      "425.00": 1,
+      "779.00": 1,
+      "729.00": 2,
+      "365.00": 2,
+      "669.00": 2,
+      "475.00": 1,
+      "869.00": 1,
+      "439.00": 1,
+      "799.00": 1,
+      "109.00": 1,
+      "249.00": 1,
+      "44.95": 1,
+      "5.00": 1,
+      "10.00": 1,
+      "129.00": 1
+    },
+    "grams": {
+      "57": 1,
+      "85": 1,
+      "94": 2,
+      "113": 2,
+      "150": 2,
+      "164": 2,
+      "190": 2,
+      "200": 1,
+      "215": 2,
+      "241": 2,
+      "275": 2,
+      "454": 2,
+      "468": 2,
+      "567": 2,
+      "618": 2,
+      "638": 2,
+      "714": 2,
+      "726": 2,
+      "746": 2,
+      "2020": 1,
+      "2722": 1,
+      "3000": 32,
+      "3629": 2
+    },
+    "available": {
+      "true": 82
+    },
+    "model_year": {
+      "2024": 9,
+      "2025": 13,
+      "89W": 1,
+      "Scope 94w": 1,
+      "Helix 99": 1,
+      "Helix 99w": 1
+    },
+    "condition": {
+      "DEMO": 9
+    },
+    "bindings": {
+      "Tyrolia Attack2 14 demo": 1,
+      "Tyrolia Attack2 11": 2,
+      "Tyrolia Attack2 13 demo bindings and brakes": 1,
+      "Tyrolia Attack2 11 demo": 5,
+      "Tyrolia Attack2 14 demo bindings and brakes": 4,
+      "Tyrolia Attack2 14": 2,
+      "Tyrolia Attack2 11 demo bindings and brakes": 2
+    },
+    "warranty": {
+      "No warranty": 11,
+      "none": 1,
+      "No warranty on this item": 1,
+      "No Warranty": 1,
+      "no warranty": 2,
+      "None": 1
+    },
+    "dimensions__mm_": {
+      "139-100-122": 4,
+      "132-90-114": 8,
+      "126-84-110": 9,
+      "130-96-118": 7,
+      "133-98-121": 6,
+      "138-106-128": 9,
+      "135-101-123": 1,
+      "132-90-115": 5,
+      "138-106-127": 1,
+      "[130-92-116]": 1,
+      "118-88-118": 4,
+      "126-90-111": 2,
+      "126-90-112": 4,
+      "135-101-122": 4,
+      "115-84-110": 1,
+      "144-110-128": 2,
+      "130-96-117": 2
+    },
+    "radius__m_": {
+      "17m": 14,
+      "19m": 7,
+      "21m": 5,
+      "15.5m": 5,
+      "18.5m": 2,
+      "20m": 7,
+      "14.5m": 4,
+      "16m": 2,
+      "17.5m": 5,
+      "16.5m": 5,
+      "18m": 5,
+      "19.5m": 3,
+      "13m": 8,
+      "15m": 7,
+      "21.5m": 2,
+      "12.5m": 4,
+      "14m": 4,
+      "[15.5m, 18m]": 1,
+      "16/13m": 2,
+      "17/14m": 2,
+      "18/15m": 2,
+      "12m": 3,
+      "11.5m": 2,
+      "13.5m": 1,
+      "23m": 1
+    },
+    "weight__g_": {
+      "1815g": 2,
+      "1930g": 2,
+      "2030g": 2,
+      "1750g": 2,
+      "1830g": 1,
+      "1875g": 1,
+      "1945g": 1,
+      "1700g": 2,
+      "1800g": 2,
+      "1900g": 1,
+      "2000g": 1,
+      "1860g": 1,
+      "1925g": 1,
+      "1990g": 1,
+      "1455g": 1,
+      "1520g": 1,
+      "1600g": 1,
+      "1115g": 1,
+      "1375g": 1,
+      "1450g": 1,
+      "1550g": 1,
+      "1500g": 1,
+      "1650g": 1,
+      "2085g": 1,
+      "2255g": 1
+    },
+    "core_profile": {
+      "VMT 3.0®": 6,
+      "VMT 1.0® combines our signature bamboo and poplar wood core, a central aluminum alloy strut and precured carbon fiber strips": 1,
+      "Tailored Specifically for women, VMT 1.0W® adds paulownia to the bamboo and poplar wood for a lighter more compliant ride, while maintaining the inherent power and stability of aluminum alloy and carbon fiber": 2,
+      "VMT 1.0®": 1,
+      "VMT3.0W®": 2,
+      "VMT or Variable Metal Technology is our next generation of metal core reinforcement. A layer of Titanal is added in a horizontal layup, starting as a full width layer under foot but tapered proportionally along the poplar, ash, and carbon fiber core. This allows skis equipped with our new VMT to flex in the tip and tail to absorb terrain and initiate turns easily, yet feel rock solid in the middle of the turn.": 1,
+      "Speedcore Carbon": 2,
+      "VMT3.0w® includes the same two additional aluminum alloy struts and pre-cured carbon fiber as well as lightweight paulownia in place of the outer layers of poplar wood.": 1,
+      "Speedcore Carbon -  bamboo, poplar, and carbon core": 1,
+      "Speedcore Carbon bamboo, poplar, and carbon core": 1,
+      "VMT 1.0W® adds paulownia to the bamboo and poplar wood for a lighter more compliant ride, while maintaining the inherent power and stability of aluminum alloy and carbon fiber": 2,
+      "VMT 1.0® combines our signature bamboo and poplar wood core, a central aluminum alloy strut and precured carbon fiber strips on top to help maintain directional stability and torsional rigidity.": 1,
+      "Tailored specifically for women, VMT3.0w® includes the same two additional aluminum alloy struts and pre-cured carbon fiber as well as lightweight paulownia in place of the outer layers of poplar wood.": 1,
+      "VMT 3.0® takes our successful vertical metal core technology two steps further by adding two additional aluminum alloy struts on either side of the center strut. This creates a precise, quiet ride, that is light and nimble in difficult conditions.": 1
+    },
+    "rocker_profile": {
+      "Hammer Rocker": 4,
+      "Tip and tail rocker": 1,
+      "Tip and tail rocker with positive camber underfoot": 2,
+      "Incorporates tip and tail rocker with positive camber underfoot for maximum floatation and playful feel, while maintaining hard-snow performance.": 4,
+      "Hammer Rocker comes armed with an early-rise tip and camber back to the tail for powerful edge grip and precise turn shape.": 3,
+      "Classic Camber": 1,
+      "tip and tail rocker with positive camber underfoot": 1
+    },
+    "effective_turning_edge": {
+      "85%": 13,
+      "70%": 6,
+      "75%": 3,
+      "76%": 1,
+      "90%": 2,
+      "65%": 1,
+      "80%": 1
+    },
+    "tip_rocker": {
+      "15%": 12,
+      "20%": 8,
+      "16%": 1,
+      "5%": 2,
+      "10%": 3
+    },
+    "weight__g__": {
+      "1625g": 2,
+      "1700g": 5,
+      "1860g": 2,
+      "1975g": 2,
+      "1530g": 2,
+      "1650g": 5,
+      "1710g": 2,
+      "1800g": 4,
+      "1675g": 2,
+      "1725g": 3,
+      "1785g": 2,
+      "1850g": 2,
+      "1920g": 2,
+      "1980g": 2,
+      "2040g": 2,
+      "1450g": 1,
+      "1500g": 2,
+      "1550g": 4,
+      "[1485g, 1600g]": 1,
+      "1750g": 2,
+      "1520g": 3,
+      "1585g": 3,
+      "1420g": 2,
+      "1495g": 2,
+      "1640g": 1,
+      "1705g": 1,
+      "1775g": 1,
+      "1900g": 2,
+      "2000g": 1,
+      "1830g": 1,
+      "1875g": 1,
+      "1945g": 1,
+      "1455g": 1,
+      "1600g": 2,
+      "1685g": 1
+    },
+    "brand": {
+      "Helix": 1,
+      "Not specified": 1,
+      "Liberty": 1,
+      "Apple": 1
+    },
+    "year": {
+      "2025": 1,
+      "2026": 2
+    },
+    "ski_line": {
+      "Horizon": 1
+    },
+    "ski_description": {
+      "narrowest": 1
+    },
+    "technology": {
+      "Variable Metal Technology": 2
+    },
+    "features": {
+      "ideal balance of edge hold and maneuverability": 1,
+      "precision on the slopes": 1,
+      "edge hold": 1,
+      "dampening": 1,
+      "compliant tips and tails": 1,
+      "easy turn initiation": 1,
+      "stability of Variable Metal Technology": 1,
+      "lightweight": 1,
+      "playful": 1,
+      "excellent edge hold": 1,
+      "high performance": 1,
+      "Nimble shape": 1,
+      "Recoil Core Carbon": 1,
+      "Lightweight": 1,
+      "Powerful": 1,
+      "tip and tail rocker": 1,
+      "bamboo construction": 1,
+      "poplar construction": 1,
+      "carbon fiber construction": 1,
+      "tip and tail stay playful": 1,
+      "titanal metal under foot gives the ski incredible edge hold and dampness": 1,
+      "excel in short to mid-range turns": 1,
+      "Updated and increased tip and tail rocker": 1,
+      "moderately stiff midsection": 1,
+      "super playful feel": 1,
+      "Holds 3 pairs of any type skis and poles up to 190cm plus other gear or 2 snowboards with bindings": 1,
+      "Airline/Check-in compliant": 1,
+      "Fully padded ski compartment": 1,
+      "Durable and whisper quiet inline skate wheels": 1,
+      "Fits skis up to 190cm including powder skis": 1,
+      "<i>Gear Shield™</i> technology at tip and tail": 1,
+      "Hitchin™ technology allows a bag to quickly and easily con nect to Ski Shield™ bag": 1,
+      "Internal binding protector": 1,
+      "Internal pockets for personal items": 1,
+      "External and internal load control straps": 1,
+      "Strong, lightweight, 840D polyester ballistic fabric": 1,
+      "Padded <i>Easy Grab™</i>pull handle": 1,
+      "Padded carry handle": 1,
+      "Bright colored interior linings": 1,
+      "Vents and drainage holes for airflow": 1,
+      "High quality YKK coil zippers with heavy duty web pulls": 1,
+      "Water resistant polyurethane coating": 1,
+      "Double needle stitching": 1,
+      "2 section pole": 1,
+      "18/16mm": 1,
+      "Strong 7075-T6 aluminum alloy": 1,
+      "PowerLock 2 locking mechanism": 1,
+      "Lightweight, warm, foam grips": 1,
+      "Ultra-supple nylon straps": 1,
+      "FR PRO3 Toe allows for optimal tip up movement, even at 90°": 1,
+      "NX FR Heel": 1,
+      "77mm Metal AFD is more durable than plastic or Teflon anti-friction devices": 1,
+      "17mm Stand Height": 1,
+      "Powerlock 3.0 lock mechanism": 1,
+      "Extended contour cork grip zones": 1,
+      "Padded wrist straps": 1,
+      "Ice-Flex carbide tips": 1,
+      "Large snowflake baskets": 1,
+      "Interchangeable basket system": 1,
+      "Quick-drying": 1,
+      "breathable": 1,
+      "protect your face from the elements": 1,
+      "Offered in six different styles": 1
+    },
+    "product_name": {
+      "Horizon 92": 1,
+      "Radian 92": 2,
+      "Scope 110": 3,
+      "Helix 89": 2,
+      "Scope 104": 2,
+      "Scope 94": 1,
+      "Genome": 1,
+      "20 Years Deep Hat": 1,
+      "Liberty Face Tube": 1
+    },
+    "origin": {
+      "European-made": 1,
+      "European": 1
+    },
+    "design_inspiration": {
+      "Colorado": 1
+    },
+    "benefits": {
+      "smooth ride": 1,
+      "user-friendly": 1
+    },
+    "description": {
+      "The Radian 100 balances all-mountain versatility with big-mountain performance. Its lightweight yet powerful design offers incredible stability and control for a seamless ride, all crafted with European precision.": 1,
+      "ultimate one-ski quiver for bigger mountains with more snow. It's the wider, more powerful version of the Radian 100, providing superior performance across varied terrains with the same European quality and attention to detail.": 1,
+      "The all new Scope 94 makes every day a new adventure. Whether you are hiking Wild Child at Loveland or ripping groomers down Birds of Prey at Beaver Creek, the Scope 94 was the right ski to grab out of the garage. We like to say that the skis in the Scope Series are our fun, freeride skis and that is exactly the emotion that the Scope 94 is known for, fun. Produced in our European-managed factory, this freeride ski will literally take you anywhere and everywhere that a ski area has to offer all while smiling from ear to ear.": 1,
+      "DEMO ski - it has been used at on-snow demos.": 1,
+      "VMT 1.0® combines our signature bamboo and poplar wood core, a central aluminum alloy strut and precured carbon fiber strips on top to help maintain directional stability and torsional rigidity.": 1
+    },
+    "model": {
+      "Radian 106": 1,
+      "Horizon 92": 1,
+      "Scope 94W": 1,
+      "Helix 99W": 1,
+      "iPhone 14 Pro Max": 1
+    },
+    "purpose": {
+      "freeride": 1
+    },
+    "construction_materials": {
+      "Poplar": 1,
+      "ash": 1,
+      "phenolic plate": 1
+    },
+    "target_audience": {
+      "women": 1
+    },
+    "intended_use": {
+      "freeride ski": 1,
+      "Big-mountain freeride skiing": 1,
+      "powder days": 1,
+      "backcountry adventures": 1,
+      "booter session": 1,
+      "groomers": 1,
+      "tree stashes": 1,
+      "open field of powder": 1,
+      "buttering": 1,
+      "skiing the whole mountain": 1,
+      "jump lines": 1,
+      "tweener ski": 1,
+      "big mountain freeride": 1,
+      "park days": 1,
+      "all mountain tool": 1
+    },
+    "performance_characteristics": {
+      "lightweight": 1,
+      "nimble": 1,
+      "easy turn initiation": 1,
+      "rock-solid stability in carved turns": 1
+    },
+    "size": {
+      "168cm": 2,
+      "S": 4,
+      "M": 5,
+      "L": 5,
+      "XL": 5,
+      "2XL": 4,
+      "One size": 2,
+      "3XL": 2,
+      "4XL": 2,
+      "5XL": 2,
+      "One Size Fits All": 3,
+      "110-135cm": 2,
+      "105-140cm": 1
+    },
+    "core": {
+      "bamboo and poplar": 2,
+      "poplar": 1,
+      "poplar and ash": 2,
+      "VMT 1.0W® - bamboo, poplar, paulownia, aluminum alloy and carbon fiber": 1,
+      "VMT 1.0W®": 1,
+      "lightweight aspen with carbon fiber": 1,
+      "Speedcore Carbon": 1
+    },
+    "design": {
+      "twin-tip": 1
+    },
+    "property": {
+      "freeride ski": 1,
+      "all-mountain twin": 1,
+      "playful": 1,
+      "fun": 1,
+      "versatile": 1
+    },
+    "awards": {
+      "Freeskier EditorsPick": 1,
+      "Blister Recommended": 1,
+      "FREESKIER Editor's Pick 2024-25": 3,
+      "Blister Gear Recommended 2024-25": 3,
+      "Real Skiers Recommended 2024-25": 2
+    },
+    "plate": {
+      "phenolic": 1,
+      "Phenolic": 1
+    },
+    "tips___tails": {
+      "rockered": 1
+    },
+    "bases": {
+      "high-carbon": 1
+    },
+    "rocker": {
+      "perfectly placed": 1,
+      "tip and tail": 1
+    },
+    "environment": {
+      "deep snow": 1,
+      "powder days": 1
+    },
+    "color": {
+      "Black": 3,
+      "Turf Green": 1,
+      "Azalea": 1,
+      "Sport Grey": 1,
+      "Light Pink": 3,
+      "Ash": 3,
+      "White": 3,
+      "Pink": 2,
+      "Dark Grey": 1,
+      "Sand": 2,
+      "Military Green": 2,
+      "Heather Sport Dark Navy": 1,
+      "Due to the fabric properties, the White color variant may appear off-white rather than bright white.": 1,
+      "Gray": 1,
+      "Blue": 1,
+      "Grey": 1,
+      "Space Black": 1,
+      "Silver": 1,
+      "Gold": 1,
+      "Deep Purple": 1
+    },
+    "material": {
+      "100% cotton": 1,
+      "100% chino cotton twill": 2,
+      "85% acrylic, 15% wool": 1,
+      "50% pre-shrunk cotton, 50% polyester": 2,
+      "Heather Sport Dark Navy is 40% cotton, 60% polyester": 2,
+      "poplar": 2,
+      "ash": 1,
+      "Bamboo": 1,
+      "carbon fiber": 2,
+      "acrylic": 1,
+      "aluminum alloy": 1,
+      "Acrylic Blend": 1,
+      "real bamboo": 1
+    },
+    "fabric_weight": {
+      "5.0–5.3 oz/yd² (170-180 g/m²)": 1,
+      "8.0 oz/yd² (271.25 g/m²)": 1
+    },
+    "yarn_type": {
+      "open-end yarn": 1
+    },
+    "fabric_construction": {
+      "Tubular fabric": 1
+    },
+    "neckline": {
+      "taped neck and shoulders": 1
+    },
+    "sleeves": {
+      "double seam at sleeves": 1
+    },
+    "hem": {
+      "double seam at bottom hem": 1
+    },
+    "origin_manufacturing": {
+      "Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico": 1
+    },
+    "origin_printing": {
+      "USA": 1
+    },
+    "structure": {
+      "Unstructured": 2,
+      "Structured": 1,
+      "6-panel": 2,
+      "high-profile": 1,
+      "low-profile": 1
+    },
+    "panels": {
+      "6-panel": 1
+    },
+    "profile": {
+      "low-profile": 1
+    },
+    "eyelets": {
+      "6 embroidered eyelets": 1
+    },
+    "crown_height": {
+      "3 ⅛” (7.6 cm)": 1
+    },
+    "strap": {
+      "Adjustable strap with antique buckle": 2
+    },
+    "closure": {
+      "Plastic snap closure": 1
+    },
+    "visor": {
+      "flat": 1,
+      "grey": 1
+    },
+    "head_circumference": {
+      "22″–24″ (55–60 cm)": 1
+    },
+    "dimension_a": {
+      "20 ½-24 ¼ inches": 1
+    },
+    "dimension_b": {
+      "4 ½ inches": 1
+    },
+    "dimension_c": {
+      "2 ⅝ inches": 1
+    },
+    "dimension_d": {
+      "7 ⅛ inches": 1
+    },
+    "embroidery": {
+      "6 embroidered eyelets": 1
+    },
+    "crown": {
+      "3 ⅛” (7.6 cm)": 1
+    },
+    "demo": {
+      "DEMO": 2,
+      "True": 1,
+      "DEMO ski": 1
+    },
+    "fabric": {
+      "Air-jet spun yarn with a soft feel and reduced pilling": 1
+    },
+    "hood": {
+      "Double-lined hood with matching drawcord": 2
+    },
+    "body": {
+      "Quarter-turned body to avoid crease down the middle": 1
+    },
+    "cuffs_and_waistband": {
+      "1 × 1 athletic rib-knit cuffs and waistband with spandex": 2
+    },
+    "pockets": {
+      "Front pouch pocket": 2
+    },
+    "stitching": {
+      "Double-needle stitched collar, shoulders, armholes, cuffs, and hem": 2
+    },
+    "disclaimer": {
+      "Due to the fabric properties, the White color variant may appear off-white rather than bright white.": 1
+    },
+    "fabric_details": {
+      "Air-jet spun yarn with a soft feel and reduced pilling": 1
+    },
+    "fit": {
+      "Quarter-turned body to avoid crease down the middle": 1
+    },
+    "manufacturing": {
+      "Printed right here in the good ol' USA": 1
+    },
+    "binding": {
+      "Tyrolia Attack2 11 demo": 1,
+      "Tyrolia Attack2 14": 1,
+      "Tyrolia Attack2 14 demo bindings and brakes": 1
+    },
+    "weight": {
+      "Lighter than previous models": 1,
+      "approximately 100 grams per ski lighter than an Evolv100 in the same size": 1,
+      "Overall lighter weight": 1,
+      "1585g": 1,
+      "1640g": 1,
+      "1705g": 1,
+      "1775g": 1,
+      "1550g": 1,
+      "1600g": 1,
+      "1685g": 1,
+      "1725g": 1,
+      "100 grams per ski lighter than an Evolv100 in the same size": 1,
+      "7.5 LBS (3400 grams)": 1,
+      "1800g": 1,
+      "1860g": 1,
+      "1925g": 1,
+      "1990g": 1,
+      "1720g (2020g w/ brake)": 1
+    },
+    "wood_type": {
+      "Poplar": 1,
+      "ash": 1
+    },
+    "base": {
+      "High-carbon race bases": 1
+    },
+    "materials": {
+      "Bamboo": 2,
+      "poplar": 2,
+      "carbon fiber": 2
+    },
+    "usage": {
+      "Playful ski": 1
+    },
+    "tip_and_tail_softness": {
+      "Softened by about 10%": 1
+    },
+    "construction": {
+      "variable metal laminate": 1,
+      "full sidewall": 2,
+      "Poplar and ash mixed with a phenolic plate under foot": 1,
+      "High-carbon race bases": 1,
+      "variable metal laminate,": 1,
+      "Bamboo": 1,
+      "poplar": 1,
+      "carbon fiber": 1,
+      "VMT 1.0®": 1
+    },
+    "turn_type": {
+      "short to mid-range": 1
+    },
+    "ski_name": {
+      "Radian 100": 1
+    },
+    "breaks": {
+      "demo brakes": 1
+    },
+    "width": {
+      "88": 1,
+      "Narrow enough for groomers": 1,
+      "141 millimeters": 2,
+      "100mm-waist": 1
+    },
+    "conditions": {
+      "snowing and accumulating": 1
+    },
+    "ski_model": {
+      "Scope 84": 1
+    },
+    "status": {
+      "DEMO": 1
+    },
+    "shape": {
+      "twin tip": 1
+    },
+    "tail_rocker": {
+      "10%": 7,
+      "5%": 6,
+      "8%": 1,
+      "15%": 1
+    },
+    "mount_position": {
+      "745mm": 4,
+      "780mm": 4,
+      "815mm": 4,
+      "850mm": 3,
+      "690mm": 1,
+      "715mm": 1,
+      "770mm": 2,
+      "580mm": 1,
+      "630mm": 1,
+      "680mm": 1,
+      "730mm": 1,
+      "800mm": 1,
+      "825mm": 1,
+      "755mm": 3,
+      "790mm": 3,
+      "820mm": 3,
+      "720mm": 2
+    },
+    "dimensions": {
+      "135-101-122": 1,
+      "130-96-117mm": 1,
+      "135-101-123": 1
+    },
+    "radius": {
+      "12.5m": 2,
+      "13.5m": 1,
+      "15m": 2,
+      "16.5m": 3,
+      "14m": 1,
+      "17.5m": 1,
+      "19m": 1,
+      "20m": 1
+    },
+    "rocker_tip": {
+      "20%": 1,
+      "early-rise": 1
+    },
+    "rocker_tail": {
+      "10%": 1
+    },
+    "lengths": {
+      "151cm": 1,
+      "158cm": 1,
+      "165cm": 1,
+      "171cm": 1
+    },
+    "sidewall": {
+      "poured polyurethane": 1
+    },
+    "location": {
+      "Steamboat": 1,
+      "Niseko": 1
+    },
+    "snowfall": {
+      "15 inches": 1
+    },
+    "performance": {
+      "smash powder and crud with ease": 1,
+      "lighter than previous models": 1,
+      "blend of playfulness and edge hold": 1,
+      "motoring on long cat tracks": 1,
+      "extra juice": 1,
+      "impressively light, playful, and creative": 1,
+      "perfect for freestyle and freeride-oriented skiers": 1,
+      "progressive rocker profile and positive camber underfoot": 1,
+      "unique blend of energy, stability, and responsiveness": 1,
+      "all-mountain": 1,
+      "big mountain powder chasing": 1,
+      "carving": 1,
+      "stability in the moguls": 1,
+      "quick": 1,
+      "fun to carve": 1,
+      "outperforms it's width in fresh snow": 1,
+      "incredible edge hold": 1,
+      "smooth performance": 1,
+      "handle crud and chop with ease": 1,
+      "light and energetic": 1,
+      "stiff, stable feel": 1
+    },
+    "previous_model_name": {
+      "Helix 84": 1
+    },
+    "new_size": {
+      "168cm": 1
+    },
+    "suitable_skier": {
+      "junior skier transitioning to adult skis": 1
+    },
+    "core_material": {
+      "bamboo and poplar": 1
+    },
+    "ski_shape": {
+      "twin tip": 1
+    },
+    "category": {
+      "skis": 1
+    },
+    "ski_width": {
+      "narrow to wide": 1
+    },
+    "flex": {
+      "compliant": 1
+    },
+    "turn_radius": {
+      "short": 1
+    },
+    "other_features": {
+      "soft tips and tails": 1,
+      "phenolic plate under foot for stability": 1,
+      "lightweight": 1
+    },
+    "reviews": {
+      "Freeskier": 1,
+      "Ski Essentials": 1,
+      "Ski Talk": 1
+    },
+    "key": {
+      "Ski Essentials Review": 1
+    },
+    "height": {
+      "52": 1
+    },
+    "recommended_for": {
+      "Skiers who love the sensation of a clean, unwavering carve": 1
+    },
+    "predecessor": {
+      "Helix 89W": 1
+    },
+    "tip_and_tail_modification": {
+      "softened by about 10%": 1
+    },
+    "topsheet": {
+      "ultra durable": 1
+    },
+    "title": {
+      "Blue/Green": 1
+    },
+    "season": {
+      "winter": 1
+    },
+    "occasion": {
+      "any occasion": 2,
+      "après": 1,
+      "dressing to impress": 2,
+      "après ski": 1
+    },
+    "anniversary": {
+      "20th": 2
+    },
+    "company_type": {
+      "independent ski company": 1
+    },
+    "name": {
+      "Liberty Ski Shield™ Ski/Snowboard Bag": 1
+    },
+    "capacity": {
+      "6896 cubic inch (113 liters)": 1
+    },
+    "sidewalls": {
+      "PU": 1
+    },
+    "grip": {
+      "foam grips": 1,
+      "Soft leather": 1
+    },
+    "other": {
+      "adjustable": 1
+    },
+    "use_case": {
+      "powder day": 1
+    },
+    "brake": {
+      "85": 1,
+      "95": 1,
+      "110": 1,
+      "85mm [A]": 1,
+      "95mm [A]": 1,
+      "110 mm [A]": 1
+    },
+    "din": {
+      "4-14": 1
+    },
+    "toe": {
+      "FR PRO3": 1
+    },
+    "compatibility": {
+      "Adult alpine ski boots (ISO 5355 TYPE A)": 1,
+      "Adult walk ski boots (ISO 23223 TYPE A)": 1
+    },
+    "storage": {
+      "128GB": 1,
+      "256GB": 1,
+      "512GB": 1,
+      "1TB": 1
+    },
+    "display_size": {
+      "6.7 inches": 1
+    },
+    "display_type": {
+      "Super Retina XDR": 1
+    },
+    "camera": {
+      "48MP Main Camera": 1
+    },
+    "operating_system": {
+      "iOS 16": 1
+    },
+    "style": {
+      "Topo": 1,
+      "Origin": 1,
+      "Mountain": 1,
+      "Glacier": 1,
+      "Liberty Logo": 1,
+      "Mountain Blue": 1
+    },
+    "select_pole_length__cm_": {
+      "110": 1,
+      "115": 1,
+      "120": 1,
+      "125": 1,
+      "130": 1,
+      "135": 1
+    },
+    "basket": {
+      "powder baskets": 1
+    },
+    "tip": {
+      "tungsten/carbide": 1
+    }
+  }
+}
